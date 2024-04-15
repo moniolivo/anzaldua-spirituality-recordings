@@ -8,6 +8,16 @@
         "id": "https://moniolivo.github.io/anzaldua-spirituality-recordings/box-157-31-32-mp3-171-175-lisa-biow-ast-reading-new-haven-1982-january-03/canvas-1/canvas",
         "type": "Canvas",
         "duration": 0,
+        "annotations": [
+          
+          {
+            "type": "AnnotationPage",
+            "id": "https://moniolivo.github.io/anzaldua-spirituality-recordings/annotations/box-157-31-32-mp3-171-175-lisa-biow-ast-reading-new-haven-1982-january-03-canvas-1-benson.json",
+            "label": {
+              "none": ["Benson"]
+            }
+          }
+        ],
         "items": [
           {
             "id": "https://moniolivo.github.io/anzaldua-spirituality-recordings/box-157-31-32-mp3-171-175-lisa-biow-ast-reading-new-haven-1982-january-03/canvas-1/paintings",

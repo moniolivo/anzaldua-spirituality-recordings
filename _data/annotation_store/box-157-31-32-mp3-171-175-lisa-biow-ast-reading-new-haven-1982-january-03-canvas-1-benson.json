@@ -1,0 +1,3660 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://moniolivo.github.io/anzaldua-spirituality-recordings/annotations/box-157-31-32-mp3-171-175-lisa-biow-ast-reading-new-haven-1982-january-03-canvas-1-benson.json",
+  "type": "AnnotationPage",
+  "label": "Benson",
+  "items": [
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "box-157-31-32-mp3-171-175-lisa-biow-ast-reading-new-haven-1982-january-03-canvas-1-benson-annotation-0.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Sally Gearhart: So this is one? Turn it over?",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://moniolivo.github.io/anzaldua-spirituality-recordings/box-157-31-32-mp3-171-175-lisa-biow-ast-reading-new-haven-1982-january-03/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://moniolivo.github.io/anzaldua-spirituality-recordings/box-157-31-32-mp3-171-175-lisa-biow-ast-reading-new-haven-1982-january-03/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "RangeSelector",
+          "t": "0.0,3.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "box-157-31-32-mp3-171-175-lisa-biow-ast-reading-new-haven-1982-january-03-canvas-1-benson-annotation-1.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Gloria Anzaldua: Yes. That represents your interaction with Jane. Turn that over. Oh, this represents how you see Jane. This card represents her. This is great. This represents your karmic link or why you came together, what you have to learn from each other. They're beautiful. This represents your career and creativity, the receptivity. Beautiful. This is your decision-making processes, delegating duties and all that. God, you don't have any problems in that respect. The inner environmental process and the outer.",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://moniolivo.github.io/anzaldua-spirituality-recordings/box-157-31-32-mp3-171-175-lisa-biow-ast-reading-new-haven-1982-january-03/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://moniolivo.github.io/anzaldua-spirituality-recordings/box-157-31-32-mp3-171-175-lisa-biow-ast-reading-new-haven-1982-january-03/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "RangeSelector",
+          "t": "3.0,5.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "box-157-31-32-mp3-171-175-lisa-biow-ast-reading-new-haven-1982-january-03-canvas-1-benson-annotation-2.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "SG: Turn this one over?",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://moniolivo.github.io/anzaldua-spirituality-recordings/box-157-31-32-mp3-171-175-lisa-biow-ast-reading-new-haven-1982-january-03/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://moniolivo.github.io/anzaldua-spirituality-recordings/box-157-31-32-mp3-171-175-lisa-biow-ast-reading-new-haven-1982-january-03/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "RangeSelector",
+          "t": "5.0,15.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "box-157-31-32-mp3-171-175-lisa-biow-ast-reading-new-haven-1982-january-03-canvas-1-benson-annotation-3.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "GA: It doesn't really matter. In this case reverse just means that there's a greater focus on the card. It's beautiful. This is your outer environment you work with. This represents yourself, your total self in relation to all these questions and who you are and how you see yourself. Beautiful. This is your test, your lesson. What you need to breakthrough or--",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://moniolivo.github.io/anzaldua-spirituality-recordings/box-157-31-32-mp3-171-175-lisa-biow-ast-reading-new-haven-1982-january-03/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://moniolivo.github.io/anzaldua-spirituality-recordings/box-157-31-32-mp3-171-175-lisa-biow-ast-reading-new-haven-1982-january-03/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "RangeSelector",
+          "t": "15.0,19.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "box-157-31-32-mp3-171-175-lisa-biow-ast-reading-new-haven-1982-january-03-canvas-1-benson-annotation-4.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "SG: With swords! Ten!",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://moniolivo.github.io/anzaldua-spirituality-recordings/box-157-31-32-mp3-171-175-lisa-biow-ast-reading-new-haven-1982-january-03/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://moniolivo.github.io/anzaldua-spirituality-recordings/box-157-31-32-mp3-171-175-lisa-biow-ast-reading-new-haven-1982-january-03/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "RangeSelector",
+          "t": "19.0,21.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "box-157-31-32-mp3-171-175-lisa-biow-ast-reading-new-haven-1982-january-03-canvas-1-benson-annotation-5.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "GA: That's one negative card out of the whole bunch. Now the last one is the outcome card. Wow. First of all a general look at the cards, you have one, two, three, four, five trump cards. That's very unusual. Trump cards are gifts to you. Even the hangmen their energies had come to you. The royalty you have, one, two, three. The royalties are the cards that represent actually doing and acting on things. The minor arcana are potentials. Things that you can act on. These people really act on them. The queens and the princesses or defenders. The frontal people they face you, they defend. The knights and the princesses are hunters, the more aggressive kind. In your deck there are knights in the Waite deck but there're not any princesses.",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://moniolivo.github.io/anzaldua-spirituality-recordings/box-157-31-32-mp3-171-175-lisa-biow-ast-reading-new-haven-1982-january-03/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://moniolivo.github.io/anzaldua-spirituality-recordings/box-157-31-32-mp3-171-175-lisa-biow-ast-reading-new-haven-1982-january-03/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "RangeSelector",
+          "t": "21.0,24.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "box-157-31-32-mp3-171-175-lisa-biow-ast-reading-new-haven-1982-january-03-canvas-1-benson-annotation-6.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "SG: That's right.",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://moniolivo.github.io/anzaldua-spirituality-recordings/box-157-31-32-mp3-171-175-lisa-biow-ast-reading-new-haven-1982-january-03/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://moniolivo.github.io/anzaldua-spirituality-recordings/box-157-31-32-mp3-171-175-lisa-biow-ast-reading-new-haven-1982-january-03/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "RangeSelector",
+          "t": "24.0,28.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "box-157-31-32-mp3-171-175-lisa-biow-ast-reading-new-haven-1982-january-03-canvas-1-benson-annotation-7.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "GA: There're just kings, so you have to make the transition. The negative card represents thoughts or self-rule, that what you do is, you do a mental trip on yourself. The outcome card is the card of synthesis of arcana.",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://moniolivo.github.io/anzaldua-spirituality-recordings/box-157-31-32-mp3-171-175-lisa-biow-ast-reading-new-haven-1982-january-03/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://moniolivo.github.io/anzaldua-spirituality-recordings/box-157-31-32-mp3-171-175-lisa-biow-ast-reading-new-haven-1982-january-03/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "28.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "box-157-31-32-mp3-171-175-lisa-biow-ast-reading-new-haven-1982-january-03-canvas-1-benson-annotation-8.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "SG: mmh–Look at it. Amazing.",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://moniolivo.github.io/anzaldua-spirituality-recordings/box-157-31-32-mp3-171-175-lisa-biow-ast-reading-new-haven-1982-january-03/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://moniolivo.github.io/anzaldua-spirituality-recordings/box-157-31-32-mp3-171-175-lisa-biow-ast-reading-new-haven-1982-january-03/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "RangeSelector",
+          "t": "28.0,30.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "box-157-31-32-mp3-171-175-lisa-biow-ast-reading-new-haven-1982-january-03-canvas-1-benson-annotation-9.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "GA: What I want to do is I want to take you through the pattern and beginning with card number one which represents the interaction between you and Jane, and probably between you and the way you interact with most people. This is the queen of disks. This is the lesbian card in this deck. One of the lesbian cards in this deck. She is ruled by Aries, and there's a ram in the picture and that represents moving forward in a new direction. There are horns on her head that extend way out. That means she's looking at the past which is this desert type with an oasis in it, and she is ready to do something about beautifying her environment right now. Make it more statically pleasing. The past is a lesson that-- A process. She's looking at the past to see what she did so that the present could be made more beautiful and it can be learned from. She is the only one in the royalty cards that looks towards the past.",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Astrology",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://moniolivo.github.io/anzaldua-spirituality-recordings/box-157-31-32-mp3-171-175-lisa-biow-ast-reading-new-haven-1982-january-03/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://moniolivo.github.io/anzaldua-spirituality-recordings/box-157-31-32-mp3-171-175-lisa-biow-ast-reading-new-haven-1982-january-03/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "RangeSelector",
+          "t": "30.0,33.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "box-157-31-32-mp3-171-175-lisa-biow-ast-reading-new-haven-1982-january-03-canvas-1-benson-annotation-10.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "SG: Is that right?",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://moniolivo.github.io/anzaldua-spirituality-recordings/box-157-31-32-mp3-171-175-lisa-biow-ast-reading-new-haven-1982-january-03/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://moniolivo.github.io/anzaldua-spirituality-recordings/box-157-31-32-mp3-171-175-lisa-biow-ast-reading-new-haven-1982-january-03/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "RangeSelector",
+          "t": "33.0,37.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "box-157-31-32-mp3-171-175-lisa-biow-ast-reading-new-haven-1982-january-03-canvas-1-benson-annotation-11.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "GA: Ah-ha. The horns extend way out, and anything that extends out from the head in symbology represents a large consciousness, enlightenment. For example, you mentioned the star card, her hair goes all the way to the ground. That means enlightenment, consciousness stretched, growth. Helmets in this-- the Hierophant which is your second card and Again in the third card, the princess of disks has the horns. Anything people wear on their heads, helmets, hair, that means it's a process of expanding consciously in your head.\n\nShe represents the disks which is a card about external reality, finances and health. In this respect she might be looking at, and you in this case might be looking at how-- not only the health of your body but also the health of the relationship in terms of with Jane. You are wanting to bring to earth certain ideas about maybe cleaning up your surroundings emotionally and also physically and it's a step with the diamond and the diamond is also another symbol for external reality for money, for earth, for manifesting. This is a symbol of bringing the power to earth or centering, manifesting whatever you want to call that.\n\nThe vegetation in the background represents the fertility. Here is a desert with a little oasis, so what you want to do is you want to make the relationship more fertile. The pineapple is a symbol of fertility. Also, the goddess. Do you see the pineapple right here?",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://moniolivo.github.io/anzaldua-spirituality-recordings/box-157-31-32-mp3-171-175-lisa-biow-ast-reading-new-haven-1982-january-03/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://moniolivo.github.io/anzaldua-spirituality-recordings/box-157-31-32-mp3-171-175-lisa-biow-ast-reading-new-haven-1982-january-03/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "RangeSelector",
+          "t": "33.0,37.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "box-157-31-32-mp3-171-175-lisa-biow-ast-reading-new-haven-1982-january-03-canvas-1-benson-annotation-12.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "SG: mmhmm! I realize that.",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://moniolivo.github.io/anzaldua-spirituality-recordings/box-157-31-32-mp3-171-175-lisa-biow-ast-reading-new-haven-1982-january-03/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://moniolivo.github.io/anzaldua-spirituality-recordings/box-157-31-32-mp3-171-175-lisa-biow-ast-reading-new-haven-1982-january-03/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "RangeSelector",
+          "t": "37.0,56.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "box-157-31-32-mp3-171-175-lisa-biow-ast-reading-new-haven-1982-january-03-canvas-1-benson-annotation-13.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "GA: She is wearing a vest of, made of little coins. That means you're going to have abundance. They do have the potential to have an abundance in health and also in material wellbeing with Jane, and with the other people that you relate to. She's wearing two bracelets. In ancient Egypt if you had one bracelet it meant something. If you had two, it meant something else. If you had one up here, it meant-- They designated that the hierarchy of the teachers or how evolved the teachers were, so here both risks have bracelets. This is a highly evolved card. Mature, Very mature. Very aware of what's going on and also very centered and very tranquil, and nothing is going to sweep her off her feet. She's like real centered, content, she knows what she wants, she knows herself and she's just like emotionally there.",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://moniolivo.github.io/anzaldua-spirituality-recordings/box-157-31-32-mp3-171-175-lisa-biow-ast-reading-new-haven-1982-january-03/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://moniolivo.github.io/anzaldua-spirituality-recordings/box-157-31-32-mp3-171-175-lisa-biow-ast-reading-new-haven-1982-january-03/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "RangeSelector",
+          "t": "56.0,59.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "box-157-31-32-mp3-171-175-lisa-biow-ast-reading-new-haven-1982-january-03-canvas-1-benson-annotation-14.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "SG: Good! Good.",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://moniolivo.github.io/anzaldua-spirituality-recordings/box-157-31-32-mp3-171-175-lisa-biow-ast-reading-new-haven-1982-january-03/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://moniolivo.github.io/anzaldua-spirituality-recordings/box-157-31-32-mp3-171-175-lisa-biow-ast-reading-new-haven-1982-january-03/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "RangeSelector",
+          "t": "59.0,69.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "box-157-31-32-mp3-171-175-lisa-biow-ast-reading-new-haven-1982-january-03-canvas-1-benson-annotation-15.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "GA: Basically the message is to do something aesthetically pleasing about your surroundings and take care of your health and also maybe go out and buy a dress or cut your hair. It's a card that says it's time to beautify your-- or get something for her to do that. Do you have any questions about this card?",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://moniolivo.github.io/anzaldua-spirituality-recordings/box-157-31-32-mp3-171-175-lisa-biow-ast-reading-new-haven-1982-january-03/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://moniolivo.github.io/anzaldua-spirituality-recordings/box-157-31-32-mp3-171-175-lisa-biow-ast-reading-new-haven-1982-january-03/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "RangeSelector",
+          "t": "69.0,73.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "box-157-31-32-mp3-171-175-lisa-biow-ast-reading-new-haven-1982-january-03-canvas-1-benson-annotation-16.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "SG: No. That's a terrific reading. I had, you know…",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://moniolivo.github.io/anzaldua-spirituality-recordings/box-157-31-32-mp3-171-175-lisa-biow-ast-reading-new-haven-1982-january-03/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://moniolivo.github.io/anzaldua-spirituality-recordings/box-157-31-32-mp3-171-175-lisa-biow-ast-reading-new-haven-1982-january-03/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "RangeSelector",
+          "t": "73.0,76.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "box-157-31-32-mp3-171-175-lisa-biow-ast-reading-new-haven-1982-january-03-canvas-1-benson-annotation-17.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "GA: Well, the queen of disks is a very special lady.",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://moniolivo.github.io/anzaldua-spirituality-recordings/box-157-31-32-mp3-171-175-lisa-biow-ast-reading-new-haven-1982-january-03/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://moniolivo.github.io/anzaldua-spirituality-recordings/box-157-31-32-mp3-171-175-lisa-biow-ast-reading-new-haven-1982-january-03/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "RangeSelector",
+          "t": "76.0,79.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "box-157-31-32-mp3-171-175-lisa-biow-ast-reading-new-haven-1982-january-03-canvas-1-benson-annotation-18.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "SG: You see it as the lesbian card?",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://moniolivo.github.io/anzaldua-spirituality-recordings/box-157-31-32-mp3-171-175-lisa-biow-ast-reading-new-haven-1982-january-03/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://moniolivo.github.io/anzaldua-spirituality-recordings/box-157-31-32-mp3-171-175-lisa-biow-ast-reading-new-haven-1982-january-03/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "RangeSelector",
+          "t": "79.0,83.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "box-157-31-32-mp3-171-175-lisa-biow-ast-reading-new-haven-1982-january-03-canvas-1-benson-annotation-19.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "GA: I see it's one of the lesbian cards.",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://moniolivo.github.io/anzaldua-spirituality-recordings/box-157-31-32-mp3-171-175-lisa-biow-ast-reading-new-haven-1982-january-03/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://moniolivo.github.io/anzaldua-spirituality-recordings/box-157-31-32-mp3-171-175-lisa-biow-ast-reading-new-haven-1982-january-03/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "RangeSelector",
+          "t": "83.0,87.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "box-157-31-32-mp3-171-175-lisa-biow-ast-reading-new-haven-1982-january-03-canvas-1-benson-annotation-20.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "SG: One of the lesbian cards.",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://moniolivo.github.io/anzaldua-spirituality-recordings/box-157-31-32-mp3-171-175-lisa-biow-ast-reading-new-haven-1982-january-03/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://moniolivo.github.io/anzaldua-spirituality-recordings/box-157-31-32-mp3-171-175-lisa-biow-ast-reading-new-haven-1982-january-03/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "RangeSelector",
+          "t": "87.0,100.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "box-157-31-32-mp3-171-175-lisa-biow-ast-reading-new-haven-1982-january-03-canvas-1-benson-annotation-21.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "GA: In this deck, it's the lesbian card",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://moniolivo.github.io/anzaldua-spirituality-recordings/box-157-31-32-mp3-171-175-lisa-biow-ast-reading-new-haven-1982-january-03/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://moniolivo.github.io/anzaldua-spirituality-recordings/box-157-31-32-mp3-171-175-lisa-biow-ast-reading-new-haven-1982-january-03/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "RangeSelector",
+          "t": "100.0,112.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "box-157-31-32-mp3-171-175-lisa-biow-ast-reading-new-haven-1982-january-03-canvas-1-benson-annotation-22.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "SG: How about that?",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://moniolivo.github.io/anzaldua-spirituality-recordings/box-157-31-32-mp3-171-175-lisa-biow-ast-reading-new-haven-1982-january-03/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://moniolivo.github.io/anzaldua-spirituality-recordings/box-157-31-32-mp3-171-175-lisa-biow-ast-reading-new-haven-1982-january-03/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "RangeSelector",
+          "t": "112.0,114.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "box-157-31-32-mp3-171-175-lisa-biow-ast-reading-new-haven-1982-january-03-canvas-1-benson-annotation-23.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "GA: and in your deck it's the queen of pentacles.",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://moniolivo.github.io/anzaldua-spirituality-recordings/box-157-31-32-mp3-171-175-lisa-biow-ast-reading-new-haven-1982-january-03/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://moniolivo.github.io/anzaldua-spirituality-recordings/box-157-31-32-mp3-171-175-lisa-biow-ast-reading-new-haven-1982-january-03/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "RangeSelector",
+          "t": "114.0,156.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "box-157-31-32-mp3-171-175-lisa-biow-ast-reading-new-haven-1982-january-03-canvas-1-benson-annotation-24.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "SG: It's interesting that you talk about it being Aries, because both Jane and I are Aries. Sounds nice. I have a moon in Aries [unintelligible 00:09:27]",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Astrology",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://moniolivo.github.io/anzaldua-spirituality-recordings/box-157-31-32-mp3-171-175-lisa-biow-ast-reading-new-haven-1982-january-03/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://moniolivo.github.io/anzaldua-spirituality-recordings/box-157-31-32-mp3-171-175-lisa-biow-ast-reading-new-haven-1982-january-03/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "RangeSelector",
+          "t": "156.0,159.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "box-157-31-32-mp3-171-175-lisa-biow-ast-reading-new-haven-1982-january-03-canvas-1-benson-annotation-25.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "GA: The best time for you to beautify your surroundings or look at your past and maybe do something about your health is during the time of Aries.",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://moniolivo.github.io/anzaldua-spirituality-recordings/box-157-31-32-mp3-171-175-lisa-biow-ast-reading-new-haven-1982-january-03/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://moniolivo.github.io/anzaldua-spirituality-recordings/box-157-31-32-mp3-171-175-lisa-biow-ast-reading-new-haven-1982-january-03/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "RangeSelector",
+          "t": "156.0,159.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "box-157-31-32-mp3-171-175-lisa-biow-ast-reading-new-haven-1982-january-03-canvas-1-benson-annotation-26.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "SG: That's when I did it.",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://moniolivo.github.io/anzaldua-spirituality-recordings/box-157-31-32-mp3-171-175-lisa-biow-ast-reading-new-haven-1982-january-03/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://moniolivo.github.io/anzaldua-spirituality-recordings/box-157-31-32-mp3-171-175-lisa-biow-ast-reading-new-haven-1982-january-03/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "RangeSelector",
+          "t": "156.0,159.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "box-157-31-32-mp3-171-175-lisa-biow-ast-reading-new-haven-1982-january-03-canvas-1-benson-annotation-27.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "GA: Ah, Okay.",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://moniolivo.github.io/anzaldua-spirituality-recordings/box-157-31-32-mp3-171-175-lisa-biow-ast-reading-new-haven-1982-january-03/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://moniolivo.github.io/anzaldua-spirituality-recordings/box-157-31-32-mp3-171-175-lisa-biow-ast-reading-new-haven-1982-january-03/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "RangeSelector",
+          "t": "164.0,166.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "box-157-31-32-mp3-171-175-lisa-biow-ast-reading-new-haven-1982-january-03-canvas-1-benson-annotation-28.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "SG: [laughs] I did change on April 9th, this past year. It's really significant that you should say that.",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://moniolivo.github.io/anzaldua-spirituality-recordings/box-157-31-32-mp3-171-175-lisa-biow-ast-reading-new-haven-1982-january-03/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://moniolivo.github.io/anzaldua-spirituality-recordings/box-157-31-32-mp3-171-175-lisa-biow-ast-reading-new-haven-1982-january-03/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "RangeSelector",
+          "t": "166.0,172.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "box-157-31-32-mp3-171-175-lisa-biow-ast-reading-new-haven-1982-january-03-canvas-1-benson-annotation-29.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "GA: Yes. Well, you're ready to push in the new direction because of the ram.",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://moniolivo.github.io/anzaldua-spirituality-recordings/box-157-31-32-mp3-171-175-lisa-biow-ast-reading-new-haven-1982-january-03/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://moniolivo.github.io/anzaldua-spirituality-recordings/box-157-31-32-mp3-171-175-lisa-biow-ast-reading-new-haven-1982-january-03/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "RangeSelector",
+          "t": "172.0,206.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "box-157-31-32-mp3-171-175-lisa-biow-ast-reading-new-haven-1982-january-03-canvas-1-benson-annotation-30.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "SG: On health, and on--",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://moniolivo.github.io/anzaldua-spirituality-recordings/box-157-31-32-mp3-171-175-lisa-biow-ast-reading-new-haven-1982-january-03/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://moniolivo.github.io/anzaldua-spirituality-recordings/box-157-31-32-mp3-171-175-lisa-biow-ast-reading-new-haven-1982-january-03/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "RangeSelector",
+          "t": "206.0,217.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "box-157-31-32-mp3-171-175-lisa-biow-ast-reading-new-haven-1982-january-03-canvas-1-benson-annotation-31.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "GA: On health, on the relationship, on making your home more pleasing aesthetically. Whatever your environment is, maybe your office. That's Aries for you.",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://moniolivo.github.io/anzaldua-spirituality-recordings/box-157-31-32-mp3-171-175-lisa-biow-ast-reading-new-haven-1982-january-03/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://moniolivo.github.io/anzaldua-spirituality-recordings/box-157-31-32-mp3-171-175-lisa-biow-ast-reading-new-haven-1982-january-03/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "RangeSelector",
+          "t": "217.0,253.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "box-157-31-32-mp3-171-175-lisa-biow-ast-reading-new-haven-1982-january-03-canvas-1-benson-annotation-32.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "SG: Good.",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://moniolivo.github.io/anzaldua-spirituality-recordings/box-157-31-32-mp3-171-175-lisa-biow-ast-reading-new-haven-1982-january-03/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://moniolivo.github.io/anzaldua-spirituality-recordings/box-157-31-32-mp3-171-175-lisa-biow-ast-reading-new-haven-1982-january-03/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "RangeSelector",
+          "t": "253.0,254.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "box-157-31-32-mp3-171-175-lisa-biow-ast-reading-new-haven-1982-january-03-canvas-1-benson-annotation-33.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "GA: Moving forward.",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://moniolivo.github.io/anzaldua-spirituality-recordings/box-157-31-32-mp3-171-175-lisa-biow-ast-reading-new-haven-1982-january-03/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://moniolivo.github.io/anzaldua-spirituality-recordings/box-157-31-32-mp3-171-175-lisa-biow-ast-reading-new-haven-1982-january-03/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "RangeSelector",
+          "t": "254.0,285.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "box-157-31-32-mp3-171-175-lisa-biow-ast-reading-new-haven-1982-january-03-canvas-1-benson-annotation-34.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "SG: Good!",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://moniolivo.github.io/anzaldua-spirituality-recordings/box-157-31-32-mp3-171-175-lisa-biow-ast-reading-new-haven-1982-january-03/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://moniolivo.github.io/anzaldua-spirituality-recordings/box-157-31-32-mp3-171-175-lisa-biow-ast-reading-new-haven-1982-january-03/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "RangeSelector",
+          "t": "285.0,293.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "box-157-31-32-mp3-171-175-lisa-biow-ast-reading-new-haven-1982-january-03-canvas-1-benson-annotation-35.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "GA: This card represents Jane to you, or how you see Jane.",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://moniolivo.github.io/anzaldua-spirituality-recordings/box-157-31-32-mp3-171-175-lisa-biow-ast-reading-new-haven-1982-january-03/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://moniolivo.github.io/anzaldua-spirituality-recordings/box-157-31-32-mp3-171-175-lisa-biow-ast-reading-new-haven-1982-january-03/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "RangeSelector",
+          "t": "293.0,392.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "box-157-31-32-mp3-171-175-lisa-biow-ast-reading-new-haven-1982-january-03-canvas-1-benson-annotation-36.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "SG: [laughs].",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://moniolivo.github.io/anzaldua-spirituality-recordings/box-157-31-32-mp3-171-175-lisa-biow-ast-reading-new-haven-1982-january-03/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://moniolivo.github.io/anzaldua-spirituality-recordings/box-157-31-32-mp3-171-175-lisa-biow-ast-reading-new-haven-1982-january-03/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "RangeSelector",
+          "t": "392.0,393.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "box-157-31-32-mp3-171-175-lisa-biow-ast-reading-new-haven-1982-january-03-canvas-1-benson-annotation-37.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "GA: This is the card of the hierophant, and it's the card of teaching and learning. Especially around occult mysteries. Do you know what her birthday is by any chance?",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://moniolivo.github.io/anzaldua-spirituality-recordings/box-157-31-32-mp3-171-175-lisa-biow-ast-reading-new-haven-1982-january-03/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://moniolivo.github.io/anzaldua-spirituality-recordings/box-157-31-32-mp3-171-175-lisa-biow-ast-reading-new-haven-1982-january-03/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "RangeSelector",
+          "t": "393.0,401.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "box-157-31-32-mp3-171-175-lisa-biow-ast-reading-new-haven-1982-january-03-canvas-1-benson-annotation-38.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "SG: Yes. April 14th.",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://moniolivo.github.io/anzaldua-spirituality-recordings/box-157-31-32-mp3-171-175-lisa-biow-ast-reading-new-haven-1982-january-03/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://moniolivo.github.io/anzaldua-spirituality-recordings/box-157-31-32-mp3-171-175-lisa-biow-ast-reading-new-haven-1982-january-03/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "RangeSelector",
+          "t": "401.0,403.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "box-157-31-32-mp3-171-175-lisa-biow-ast-reading-new-haven-1982-january-03-canvas-1-benson-annotation-39.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "GA: Okay. January. February. March. April 14 of what year?",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://moniolivo.github.io/anzaldua-spirituality-recordings/box-157-31-32-mp3-171-175-lisa-biow-ast-reading-new-haven-1982-january-03/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://moniolivo.github.io/anzaldua-spirituality-recordings/box-157-31-32-mp3-171-175-lisa-biow-ast-reading-new-haven-1982-january-03/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "RangeSelector",
+          "t": "403.0,410.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "box-157-31-32-mp3-171-175-lisa-biow-ast-reading-new-haven-1982-january-03-canvas-1-benson-annotation-40.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "SG: 1941.",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://moniolivo.github.io/anzaldua-spirituality-recordings/box-157-31-32-mp3-171-175-lisa-biow-ast-reading-new-haven-1982-january-03/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://moniolivo.github.io/anzaldua-spirituality-recordings/box-157-31-32-mp3-171-175-lisa-biow-ast-reading-new-haven-1982-january-03/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "RangeSelector",
+          "t": "410.0,413.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "box-157-31-32-mp3-171-175-lisa-biow-ast-reading-new-haven-1982-january-03-canvas-1-benson-annotation-41.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "GA: Ooh, she's a lovers too, like you.",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://moniolivo.github.io/anzaldua-spirituality-recordings/box-157-31-32-mp3-171-175-lisa-biow-ast-reading-new-haven-1982-january-03/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://moniolivo.github.io/anzaldua-spirituality-recordings/box-157-31-32-mp3-171-175-lisa-biow-ast-reading-new-haven-1982-january-03/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "RangeSelector",
+          "t": "413.0,498.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "box-157-31-32-mp3-171-175-lisa-biow-ast-reading-new-haven-1982-january-03-canvas-1-benson-annotation-42.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "SG: Is she?",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://moniolivo.github.io/anzaldua-spirituality-recordings/box-157-31-32-mp3-171-175-lisa-biow-ast-reading-new-haven-1982-january-03/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://moniolivo.github.io/anzaldua-spirituality-recordings/box-157-31-32-mp3-171-175-lisa-biow-ast-reading-new-haven-1982-january-03/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "RangeSelector",
+          "t": "498.0,502.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "box-157-31-32-mp3-171-175-lisa-biow-ast-reading-new-haven-1982-january-03-canvas-1-benson-annotation-43.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "GA: I was wondering. I was trying to see may-- Because some people in their numerology. For example, I'm a double lover, but in my numerology, I have two double sevens and a double nine, the hermit and chariot. Sometimes people are in a growth year that is erected to this card. The number five, or that five years ago, something happened between the two of you.",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Numerology",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://moniolivo.github.io/anzaldua-spirituality-recordings/box-157-31-32-mp3-171-175-lisa-biow-ast-reading-new-haven-1982-january-03/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://moniolivo.github.io/anzaldua-spirituality-recordings/box-157-31-32-mp3-171-175-lisa-biow-ast-reading-new-haven-1982-january-03/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "RangeSelector",
+          "t": "502.0,504.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "box-157-31-32-mp3-171-175-lisa-biow-ast-reading-new-haven-1982-january-03-canvas-1-benson-annotation-44.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "SG: It was our-- Yes, exactly [laughs]. That's wonderful. That's very fun. Very fun.",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://moniolivo.github.io/anzaldua-spirituality-recordings/box-157-31-32-mp3-171-175-lisa-biow-ast-reading-new-haven-1982-january-03/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://moniolivo.github.io/anzaldua-spirituality-recordings/box-157-31-32-mp3-171-175-lisa-biow-ast-reading-new-haven-1982-january-03/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "RangeSelector",
+          "t": "504.0,505.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "box-157-31-32-mp3-171-175-lisa-biow-ast-reading-new-haven-1982-january-03-canvas-1-benson-annotation-45.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "GA: What I want to do is, I want to figure out what her growth year is. It's amazing. Two lovers living together, double lovers. It works, huh?",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Numerology",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://moniolivo.github.io/anzaldua-spirituality-recordings/box-157-31-32-mp3-171-175-lisa-biow-ast-reading-new-haven-1982-january-03/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://moniolivo.github.io/anzaldua-spirituality-recordings/box-157-31-32-mp3-171-175-lisa-biow-ast-reading-new-haven-1982-january-03/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "RangeSelector",
+          "t": "505.0,509.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "box-157-31-32-mp3-171-175-lisa-biow-ast-reading-new-haven-1982-january-03-canvas-1-benson-annotation-46.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "SG: Actually, we don't live together.",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://moniolivo.github.io/anzaldua-spirituality-recordings/box-157-31-32-mp3-171-175-lisa-biow-ast-reading-new-haven-1982-january-03/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://moniolivo.github.io/anzaldua-spirituality-recordings/box-157-31-32-mp3-171-175-lisa-biow-ast-reading-new-haven-1982-january-03/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "RangeSelector",
+          "t": "505.0,509.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "box-157-31-32-mp3-171-175-lisa-biow-ast-reading-new-haven-1982-january-03-canvas-1-benson-annotation-47.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "GA: Well, being lovers. I wonder if it would work if you lived together.",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://moniolivo.github.io/anzaldua-spirituality-recordings/box-157-31-32-mp3-171-175-lisa-biow-ast-reading-new-haven-1982-january-03/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://moniolivo.github.io/anzaldua-spirituality-recordings/box-157-31-32-mp3-171-175-lisa-biow-ast-reading-new-haven-1982-january-03/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "RangeSelector",
+          "t": "509.0,524.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "box-157-31-32-mp3-171-175-lisa-biow-ast-reading-new-haven-1982-january-03-canvas-1-benson-annotation-48.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "SG: I wonder too. We wonder together.",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://moniolivo.github.io/anzaldua-spirituality-recordings/box-157-31-32-mp3-171-175-lisa-biow-ast-reading-new-haven-1982-january-03/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://moniolivo.github.io/anzaldua-spirituality-recordings/box-157-31-32-mp3-171-175-lisa-biow-ast-reading-new-haven-1982-january-03/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "RangeSelector",
+          "t": "524.0,525.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "box-157-31-32-mp3-171-175-lisa-biow-ast-reading-new-haven-1982-january-03-canvas-1-benson-annotation-49.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "GA: No, her growth year is 10. The wheel of fortune. She's going through the wheel of fortune. Anyway, the hierophant is-- The person represented by the hierophant is very much concerned with family. She has a lot to do with a male person in her life. Could be her father. When she resolves certain things with that male person or that authority figure, she will own up to her leadership.",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://moniolivo.github.io/anzaldua-spirituality-recordings/box-157-31-32-mp3-171-175-lisa-biow-ast-reading-new-haven-1982-january-03/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://moniolivo.github.io/anzaldua-spirituality-recordings/box-157-31-32-mp3-171-175-lisa-biow-ast-reading-new-haven-1982-january-03/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "RangeSelector",
+          "t": "525.0,527.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "box-157-31-32-mp3-171-175-lisa-biow-ast-reading-new-haven-1982-january-03-canvas-1-benson-annotation-50.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "SG: Would you say that again, louder, I want to play this tape for Jane right now?",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://moniolivo.github.io/anzaldua-spirituality-recordings/box-157-31-32-mp3-171-175-lisa-biow-ast-reading-new-haven-1982-january-03/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://moniolivo.github.io/anzaldua-spirituality-recordings/box-157-31-32-mp3-171-175-lisa-biow-ast-reading-new-haven-1982-january-03/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "RangeSelector",
+          "t": "527.0,575.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "box-157-31-32-mp3-171-175-lisa-biow-ast-reading-new-haven-1982-january-03-canvas-1-benson-annotation-51.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "[laughter]",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://moniolivo.github.io/anzaldua-spirituality-recordings/box-157-31-32-mp3-171-175-lisa-biow-ast-reading-new-haven-1982-january-03/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://moniolivo.github.io/anzaldua-spirituality-recordings/box-157-31-32-mp3-171-175-lisa-biow-ast-reading-new-haven-1982-january-03/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "RangeSelector",
+          "t": "575.0,577.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "box-157-31-32-mp3-171-175-lisa-biow-ast-reading-new-haven-1982-january-03-canvas-1-benson-annotation-52.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "GA: No. I can't.",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://moniolivo.github.io/anzaldua-spirituality-recordings/box-157-31-32-mp3-171-175-lisa-biow-ast-reading-new-haven-1982-january-03/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://moniolivo.github.io/anzaldua-spirituality-recordings/box-157-31-32-mp3-171-175-lisa-biow-ast-reading-new-haven-1982-january-03/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "RangeSelector",
+          "t": "577.0,590.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "box-157-31-32-mp3-171-175-lisa-biow-ast-reading-new-haven-1982-january-03-canvas-1-benson-annotation-53.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "SG: No, no, no. I'm teasing about that, but that's important, Gloria. That's good.",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://moniolivo.github.io/anzaldua-spirituality-recordings/box-157-31-32-mp3-171-175-lisa-biow-ast-reading-new-haven-1982-january-03/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://moniolivo.github.io/anzaldua-spirituality-recordings/box-157-31-32-mp3-171-175-lisa-biow-ast-reading-new-haven-1982-january-03/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "RangeSelector",
+          "t": "590.0,591.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "box-157-31-32-mp3-171-175-lisa-biow-ast-reading-new-haven-1982-january-03-canvas-1-benson-annotation-54.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "GA: That's important. I think it's picking up pretty good.",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://moniolivo.github.io/anzaldua-spirituality-recordings/box-157-31-32-mp3-171-175-lisa-biow-ast-reading-new-haven-1982-january-03/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://moniolivo.github.io/anzaldua-spirituality-recordings/box-157-31-32-mp3-171-175-lisa-biow-ast-reading-new-haven-1982-january-03/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "RangeSelector",
+          "t": "591.0,604.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "box-157-31-32-mp3-171-175-lisa-biow-ast-reading-new-haven-1982-january-03-canvas-1-benson-annotation-55.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "SG: Good.",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://moniolivo.github.io/anzaldua-spirituality-recordings/box-157-31-32-mp3-171-175-lisa-biow-ast-reading-new-haven-1982-january-03/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://moniolivo.github.io/anzaldua-spirituality-recordings/box-157-31-32-mp3-171-175-lisa-biow-ast-reading-new-haven-1982-january-03/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "RangeSelector",
+          "t": "604.0,615.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "box-157-31-32-mp3-171-175-lisa-biow-ast-reading-new-haven-1982-january-03-canvas-1-benson-annotation-56.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "GA: A child or children also are very important in her life. When she interacts with a child, she will come to terms with her innate child as her spontaneity or childlike nature. There will be a child, either a neighbor's, or maybe she'll be in the bus and she'll see a child in the bus or in the park, maybe a niece, or somebody. There'll be a child that will trigger that in her, of owning her childlike innocence and playfulness.\n\nThe child will represent Horace, like the father represented Osiris. Isis in this picture is a contemporary woman. The man was older, the child was younger. Isis is a contemporary woman and someone that's close to her age. This woman will open up vistas in the occult, in maybe tarot or the i ching, or maybe a reading that she had. Some psychic thing will be mirrored to her by a contemporary woman who's into the occult, or into the mysteries, or spirituality. When she recognizes that woman, then it's like recognizing her potential to get into the occult and her inner spirituality. Basically, this is the part of the family of Osiris, Isis, and Horace the baby. Isis is down here, holding a sword between her thighs. Isis is represented by the hierophant and Horace is the five-pointed star.",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://moniolivo.github.io/anzaldua-spirituality-recordings/box-157-31-32-mp3-171-175-lisa-biow-ast-reading-new-haven-1982-january-03/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://moniolivo.github.io/anzaldua-spirituality-recordings/box-157-31-32-mp3-171-175-lisa-biow-ast-reading-new-haven-1982-january-03/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "RangeSelector",
+          "t": "615.0,626.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "box-157-31-32-mp3-171-175-lisa-biow-ast-reading-new-haven-1982-january-03-canvas-1-benson-annotation-57.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "SG: Got you.",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://moniolivo.github.io/anzaldua-spirituality-recordings/box-157-31-32-mp3-171-175-lisa-biow-ast-reading-new-haven-1982-january-03/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://moniolivo.github.io/anzaldua-spirituality-recordings/box-157-31-32-mp3-171-175-lisa-biow-ast-reading-new-haven-1982-january-03/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "RangeSelector",
+          "t": "626.0,627.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "box-157-31-32-mp3-171-175-lisa-biow-ast-reading-new-haven-1982-january-03-canvas-1-benson-annotation-58.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "GA: Five years ago, something unique happened in your relationship. The hierophant is ruled by Taurus, so there might be a lot of victim. What's funny?",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://moniolivo.github.io/anzaldua-spirituality-recordings/box-157-31-32-mp3-171-175-lisa-biow-ast-reading-new-haven-1982-january-03/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://moniolivo.github.io/anzaldua-spirituality-recordings/box-157-31-32-mp3-171-175-lisa-biow-ast-reading-new-haven-1982-january-03/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "RangeSelector",
+          "t": "627.0,630.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "box-157-31-32-mp3-171-175-lisa-biow-ast-reading-new-haven-1982-january-03-canvas-1-benson-annotation-59.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "SG: Well, that's actually when we met. Was five years ago on May 1st, which is Taurus. Right?",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://moniolivo.github.io/anzaldua-spirituality-recordings/box-157-31-32-mp3-171-175-lisa-biow-ast-reading-new-haven-1982-january-03/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://moniolivo.github.io/anzaldua-spirituality-recordings/box-157-31-32-mp3-171-175-lisa-biow-ast-reading-new-haven-1982-january-03/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "RangeSelector",
+          "t": "630.0,632.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "box-157-31-32-mp3-171-175-lisa-biow-ast-reading-new-haven-1982-january-03-canvas-1-benson-annotation-60.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "GA: Yes.",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://moniolivo.github.io/anzaldua-spirituality-recordings/box-157-31-32-mp3-171-175-lisa-biow-ast-reading-new-haven-1982-january-03/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://moniolivo.github.io/anzaldua-spirituality-recordings/box-157-31-32-mp3-171-175-lisa-biow-ast-reading-new-haven-1982-january-03/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "RangeSelector",
+          "t": "632.0,643.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "box-157-31-32-mp3-171-175-lisa-biow-ast-reading-new-haven-1982-january-03-canvas-1-benson-annotation-61.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "SG: Not when we met, but when we--",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://moniolivo.github.io/anzaldua-spirituality-recordings/box-157-31-32-mp3-171-175-lisa-biow-ast-reading-new-haven-1982-january-03/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://moniolivo.github.io/anzaldua-spirituality-recordings/box-157-31-32-mp3-171-175-lisa-biow-ast-reading-new-haven-1982-january-03/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "RangeSelector",
+          "t": "643.0,646.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "box-157-31-32-mp3-171-175-lisa-biow-ast-reading-new-haven-1982-january-03-canvas-1-benson-annotation-62.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "GA: When you--?",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://moniolivo.github.io/anzaldua-spirituality-recordings/box-157-31-32-mp3-171-175-lisa-biow-ast-reading-new-haven-1982-january-03/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://moniolivo.github.io/anzaldua-spirituality-recordings/box-157-31-32-mp3-171-175-lisa-biow-ast-reading-new-haven-1982-january-03/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "RangeSelector",
+          "t": "646.0,649.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "box-157-31-32-mp3-171-175-lisa-biow-ast-reading-new-haven-1982-january-03-canvas-1-benson-annotation-63.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "SG: When we first really got together in any kind of a sexual way.",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://moniolivo.github.io/anzaldua-spirituality-recordings/box-157-31-32-mp3-171-175-lisa-biow-ast-reading-new-haven-1982-january-03/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://moniolivo.github.io/anzaldua-spirituality-recordings/box-157-31-32-mp3-171-175-lisa-biow-ast-reading-new-haven-1982-january-03/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "RangeSelector",
+          "t": "649.0,650.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "box-157-31-32-mp3-171-175-lisa-biow-ast-reading-new-haven-1982-january-03-canvas-1-benson-annotation-64.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "GA: Ah, okay, well then, that's the high-energy time for you. That's usually the best time for learning, teaching situations. The learning teaching situations don't have to be just about the occult. They can be sexual or personal or emotional or intellectual, but this is the energy of bringing to you those things that teach. You usually teach what you want to learn. There are four other times during the year when this potential comes through the most. This is during Scorpio the eagle, Aquarius the man, Taurus the bull, and Leo the lion. Those are the four times that are very-- what is the word? Propitious.",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://moniolivo.github.io/anzaldua-spirituality-recordings/box-157-31-32-mp3-171-175-lisa-biow-ast-reading-new-haven-1982-january-03/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://moniolivo.github.io/anzaldua-spirituality-recordings/box-157-31-32-mp3-171-175-lisa-biow-ast-reading-new-haven-1982-january-03/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "RangeSelector",
+          "t": "650.0,668.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "box-157-31-32-mp3-171-175-lisa-biow-ast-reading-new-haven-1982-january-03-canvas-1-benson-annotation-65.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "SG: Propitious.",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://moniolivo.github.io/anzaldua-spirituality-recordings/box-157-31-32-mp3-171-175-lisa-biow-ast-reading-new-haven-1982-january-03/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://moniolivo.github.io/anzaldua-spirituality-recordings/box-157-31-32-mp3-171-175-lisa-biow-ast-reading-new-haven-1982-january-03/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "RangeSelector",
+          "t": "668.0,677.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "box-157-31-32-mp3-171-175-lisa-biow-ast-reading-new-haven-1982-january-03-canvas-1-benson-annotation-66.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "GA: Propitious.",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://moniolivo.github.io/anzaldua-spirituality-recordings/box-157-31-32-mp3-171-175-lisa-biow-ast-reading-new-haven-1982-january-03/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://moniolivo.github.io/anzaldua-spirituality-recordings/box-157-31-32-mp3-171-175-lisa-biow-ast-reading-new-haven-1982-january-03/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "RangeSelector",
+          "t": "677.0,701.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "box-157-31-32-mp3-171-175-lisa-biow-ast-reading-new-haven-1982-january-03-canvas-1-benson-annotation-67.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "SG: Good.",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://moniolivo.github.io/anzaldua-spirituality-recordings/box-157-31-32-mp3-171-175-lisa-biow-ast-reading-new-haven-1982-january-03/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://moniolivo.github.io/anzaldua-spirituality-recordings/box-157-31-32-mp3-171-175-lisa-biow-ast-reading-new-haven-1982-january-03/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "RangeSelector",
+          "t": "701.0,705.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "box-157-31-32-mp3-171-175-lisa-biow-ast-reading-new-haven-1982-january-03-canvas-1-benson-annotation-68.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "GA: This bull here and this bull here mean the ability to manifest, to bring to earth, to complete whatever activities that she starts because this represents her, or that's how you see her. Because Taurus is really-- it's not just planning, and it's not just dreaming and thinking about things. It's really doing, really carrying it through. It's earthing it. There's three Earths, Virgo, Taurus, and Capricorn, and of those three, the Taurus is the sign that really does manifest things.",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Taurus",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://moniolivo.github.io/anzaldua-spirituality-recordings/box-157-31-32-mp3-171-175-lisa-biow-ast-reading-new-haven-1982-january-03/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://moniolivo.github.io/anzaldua-spirituality-recordings/box-157-31-32-mp3-171-175-lisa-biow-ast-reading-new-haven-1982-january-03/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "RangeSelector",
+          "t": "705.0,717.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "box-157-31-32-mp3-171-175-lisa-biow-ast-reading-new-haven-1982-january-03-canvas-1-benson-annotation-69.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "SG: It's fixed.",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://moniolivo.github.io/anzaldua-spirituality-recordings/box-157-31-32-mp3-171-175-lisa-biow-ast-reading-new-haven-1982-january-03/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://moniolivo.github.io/anzaldua-spirituality-recordings/box-157-31-32-mp3-171-175-lisa-biow-ast-reading-new-haven-1982-january-03/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "RangeSelector",
+          "t": "717.0,729.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "box-157-31-32-mp3-171-175-lisa-biow-ast-reading-new-haven-1982-january-03-canvas-1-benson-annotation-70.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "GA: Fixed. So that she's got that potential. The elephant. See the elephant over here? The elephant--",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://moniolivo.github.io/anzaldua-spirituality-recordings/box-157-31-32-mp3-171-175-lisa-biow-ast-reading-new-haven-1982-january-03/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://moniolivo.github.io/anzaldua-spirituality-recordings/box-157-31-32-mp3-171-175-lisa-biow-ast-reading-new-haven-1982-january-03/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "RangeSelector",
+          "t": "729.0,733.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "box-157-31-32-mp3-171-175-lisa-biow-ast-reading-new-haven-1982-january-03-canvas-1-benson-annotation-71.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "SG: hah. Two of them. Is it two? Yes.",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://moniolivo.github.io/anzaldua-spirituality-recordings/box-157-31-32-mp3-171-175-lisa-biow-ast-reading-new-haven-1982-january-03/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://moniolivo.github.io/anzaldua-spirituality-recordings/box-157-31-32-mp3-171-175-lisa-biow-ast-reading-new-haven-1982-january-03/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "RangeSelector",
+          "t": "733.0,736.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "box-157-31-32-mp3-171-175-lisa-biow-ast-reading-new-haven-1982-january-03-canvas-1-benson-annotation-72.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "GA: Yes. They had to do with hearing. With a sense of hearing. A symbol for that and also for long memories. These snails here. One, two, three, four, five, six, seven, eight, nine, means that she's been pierced by five. How many did I say?",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://moniolivo.github.io/anzaldua-spirituality-recordings/box-157-31-32-mp3-171-175-lisa-biow-ast-reading-new-haven-1982-january-03/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://moniolivo.github.io/anzaldua-spirituality-recordings/box-157-31-32-mp3-171-175-lisa-biow-ast-reading-new-haven-1982-january-03/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "RangeSelector",
+          "t": "736.0,753.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "box-157-31-32-mp3-171-175-lisa-biow-ast-reading-new-haven-1982-january-03-canvas-1-benson-annotation-73.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "SG: Nine.",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://moniolivo.github.io/anzaldua-spirituality-recordings/box-157-31-32-mp3-171-175-lisa-biow-ast-reading-new-haven-1982-january-03/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://moniolivo.github.io/anzaldua-spirituality-recordings/box-157-31-32-mp3-171-175-lisa-biow-ast-reading-new-haven-1982-january-03/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "RangeSelector",
+          "t": "753.0,754.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "box-157-31-32-mp3-171-175-lisa-biow-ast-reading-new-haven-1982-january-03-canvas-1-benson-annotation-74.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "GA: By nine situation, people, events, whatever, that have been very instrumental in transformations for her and breakthroughs. The snake represents regeneration and rebirth. These memories of our experiences or lessons, whatever they are, she has the ability to go through them and be transformed. The symbol of the snake. The dove is the symbol of wisdom, peace. Wisdom if the little bird is carrying an olive twig. I don't think there's an olive twig here, so this is just peace and love. This thing in the background. One, two, three, four, five, it just represents all of the perceptions, mental, emotional, spiritual.",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://moniolivo.github.io/anzaldua-spirituality-recordings/box-157-31-32-mp3-171-175-lisa-biow-ast-reading-new-haven-1982-january-03/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://moniolivo.github.io/anzaldua-spirituality-recordings/box-157-31-32-mp3-171-175-lisa-biow-ast-reading-new-haven-1982-january-03/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "RangeSelector",
+          "t": "754.0,765.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "box-157-31-32-mp3-171-175-lisa-biow-ast-reading-new-haven-1982-january-03-canvas-1-benson-annotation-75.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "And the key?",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://moniolivo.github.io/anzaldua-spirituality-recordings/box-157-31-32-mp3-171-175-lisa-biow-ast-reading-new-haven-1982-january-03/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://moniolivo.github.io/anzaldua-spirituality-recordings/box-157-31-32-mp3-171-175-lisa-biow-ast-reading-new-haven-1982-january-03/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "RangeSelector",
+          "t": "765.0,774.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "box-157-31-32-mp3-171-175-lisa-biow-ast-reading-new-haven-1982-january-03-canvas-1-benson-annotation-76.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "SG: mmhmm",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://moniolivo.github.io/anzaldua-spirituality-recordings/box-157-31-32-mp3-171-175-lisa-biow-ast-reading-new-haven-1982-january-03/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://moniolivo.github.io/anzaldua-spirituality-recordings/box-157-31-32-mp3-171-175-lisa-biow-ast-reading-new-haven-1982-january-03/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "RangeSelector",
+          "t": "774.0,786.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "box-157-31-32-mp3-171-175-lisa-biow-ast-reading-new-haven-1982-january-03-canvas-1-benson-annotation-77.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "GA: represents the key to knowledge, to the wisdom that you, through a teaching learning situation you can acquire. Then also bringing to earth, the two fingers. The orange color is the second chakra color, which is healing. It's the color of healing. Healing and renewal. There's also some red, which is a lot of energy, fashion. Isis is holding a bow in her hand, and it's the crescent moon. That's symbolizes the unconscious, the subconscious. Do you have any questions about this?",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://moniolivo.github.io/anzaldua-spirituality-recordings/box-157-31-32-mp3-171-175-lisa-biow-ast-reading-new-haven-1982-january-03/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://moniolivo.github.io/anzaldua-spirituality-recordings/box-157-31-32-mp3-171-175-lisa-biow-ast-reading-new-haven-1982-january-03/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "RangeSelector",
+          "t": "786.0,788.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "box-157-31-32-mp3-171-175-lisa-biow-ast-reading-new-haven-1982-january-03-canvas-1-benson-annotation-78.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "SG: It's very rich.",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://moniolivo.github.io/anzaldua-spirituality-recordings/box-157-31-32-mp3-171-175-lisa-biow-ast-reading-new-haven-1982-january-03/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://moniolivo.github.io/anzaldua-spirituality-recordings/box-157-31-32-mp3-171-175-lisa-biow-ast-reading-new-haven-1982-january-03/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "RangeSelector",
+          "t": "788.0,806.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "box-157-31-32-mp3-171-175-lisa-biow-ast-reading-new-haven-1982-january-03-canvas-1-benson-annotation-79.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "GA: Yes, a lot of symbols.",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://moniolivo.github.io/anzaldua-spirituality-recordings/box-157-31-32-mp3-171-175-lisa-biow-ast-reading-new-haven-1982-january-03/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://moniolivo.github.io/anzaldua-spirituality-recordings/box-157-31-32-mp3-171-175-lisa-biow-ast-reading-new-haven-1982-january-03/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "RangeSelector",
+          "t": "806.0,812.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "box-157-31-32-mp3-171-175-lisa-biow-ast-reading-new-haven-1982-january-03-canvas-1-benson-annotation-80.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "SG: I had thought of the Hierophant as being a very disciplined, ordered card, at least from the Waite deck. That's what is represented in the social orders, social hierarchies. This reading is very different. That's good.",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://moniolivo.github.io/anzaldua-spirituality-recordings/box-157-31-32-mp3-171-175-lisa-biow-ast-reading-new-haven-1982-january-03/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://moniolivo.github.io/anzaldua-spirituality-recordings/box-157-31-32-mp3-171-175-lisa-biow-ast-reading-new-haven-1982-january-03/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "RangeSelector",
+          "t": "812.0,827.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "box-157-31-32-mp3-171-175-lisa-biow-ast-reading-new-haven-1982-january-03-canvas-1-benson-annotation-81.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "GA: I can't think of anything else to add.",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://moniolivo.github.io/anzaldua-spirituality-recordings/box-157-31-32-mp3-171-175-lisa-biow-ast-reading-new-haven-1982-january-03/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://moniolivo.github.io/anzaldua-spirituality-recordings/box-157-31-32-mp3-171-175-lisa-biow-ast-reading-new-haven-1982-january-03/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "RangeSelector",
+          "t": "827.0,841.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "box-157-31-32-mp3-171-175-lisa-biow-ast-reading-new-haven-1982-january-03-canvas-1-benson-annotation-82.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "SG: Good. Good, Gloria.",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://moniolivo.github.io/anzaldua-spirituality-recordings/box-157-31-32-mp3-171-175-lisa-biow-ast-reading-new-haven-1982-january-03/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://moniolivo.github.io/anzaldua-spirituality-recordings/box-157-31-32-mp3-171-175-lisa-biow-ast-reading-new-haven-1982-january-03/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "RangeSelector",
+          "t": "841.0,849.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "box-157-31-32-mp3-171-175-lisa-biow-ast-reading-new-haven-1982-january-03-canvas-1-benson-annotation-83.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "GA: Usually I will after you leave. I usually call my people up and say, oh I just--",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://moniolivo.github.io/anzaldua-spirituality-recordings/box-157-31-32-mp3-171-175-lisa-biow-ast-reading-new-haven-1982-january-03/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://moniolivo.github.io/anzaldua-spirituality-recordings/box-157-31-32-mp3-171-175-lisa-biow-ast-reading-new-haven-1982-january-03/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "RangeSelector",
+          "t": "849.0,857.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "box-157-31-32-mp3-171-175-lisa-biow-ast-reading-new-haven-1982-january-03-canvas-1-benson-annotation-84.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "SG: Thought of something about this!",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://moniolivo.github.io/anzaldua-spirituality-recordings/box-157-31-32-mp3-171-175-lisa-biow-ast-reading-new-haven-1982-january-03/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://moniolivo.github.io/anzaldua-spirituality-recordings/box-157-31-32-mp3-171-175-lisa-biow-ast-reading-new-haven-1982-january-03/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "RangeSelector",
+          "t": "857.0,888.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "box-157-31-32-mp3-171-175-lisa-biow-ast-reading-new-haven-1982-january-03-canvas-1-benson-annotation-85.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "GA: [laughs] This is your karmic link.",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://moniolivo.github.io/anzaldua-spirituality-recordings/box-157-31-32-mp3-171-175-lisa-biow-ast-reading-new-haven-1982-january-03/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://moniolivo.github.io/anzaldua-spirituality-recordings/box-157-31-32-mp3-171-175-lisa-biow-ast-reading-new-haven-1982-january-03/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "RangeSelector",
+          "t": "888.0,893.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "box-157-31-32-mp3-171-175-lisa-biow-ast-reading-new-haven-1982-january-03-canvas-1-benson-annotation-86.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "SG: With Jane. Together?",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://moniolivo.github.io/anzaldua-spirituality-recordings/box-157-31-32-mp3-171-175-lisa-biow-ast-reading-new-haven-1982-january-03/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://moniolivo.github.io/anzaldua-spirituality-recordings/box-157-31-32-mp3-171-175-lisa-biow-ast-reading-new-haven-1982-january-03/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "RangeSelector",
+          "t": "893.0,905.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "box-157-31-32-mp3-171-175-lisa-biow-ast-reading-new-haven-1982-january-03-canvas-1-benson-annotation-87.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "GA: Yeah. This is the pregnant lady in the deck. She is the princess of disks. She has gone, walked up the top of the mountain, gone through the briar patch. All those are obstacles that she has left behind, so that in your relationship, with obstacles, unresolved karma, whatever it was that you had to do together, you have done pretty much. You're in the clear. You're out of the woods, so to speak. The briars, the branches, those represent obstacles that you've gone through. That the both of you have gone through. Again, the Aries, moving forward, the Aries horns, the ram horns, moving forward with awareness.\n\nThere's a snake, and she's carrying it on her shoulders, and it looks like a cloak and it's asleep. She's near getting ready to do this transformation, to give birth to a new identity. Because this represents your karmic link, both of you are getting ready to-- I guess to exhibit new parts of your personality that working through these things has freed. That you can now be more yourself, that you can be a new part of yourself that you hadn't been able to be with her, because you've worked through all these things.\n\nThe long braids go all the way to the ground, which again, like the staff with the diamond at the end, represent bringing to earth, achieving, completing, manifesting. The braids are sort of tight on top and then more loose on the bottom. It's sort of like a symbol for the tightness of the structure of, I guess the relationship with the karmic link. You know like, I'm loosening it up a little, and the braids are coming undone.\n\nThe other symbol for earthing is the pedestal, because she's touching the pedestal with her body, and it goes all the way to the ground, and that is a symbol like the staff. Anything that goes from above to below means bringing down energy, manifesting, earthing. She's holding a yin-yang symbol in her disk, in her hand. The yin-yang symbol is vertical, so it means interchange. When it's horizontal, it means change in the environment. Vertical means inner.",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://moniolivo.github.io/anzaldua-spirituality-recordings/box-157-31-32-mp3-171-175-lisa-biow-ast-reading-new-haven-1982-january-03/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://moniolivo.github.io/anzaldua-spirituality-recordings/box-157-31-32-mp3-171-175-lisa-biow-ast-reading-new-haven-1982-january-03/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "RangeSelector",
+          "t": "643.0,646.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "box-157-31-32-mp3-171-175-lisa-biow-ast-reading-new-haven-1982-january-03-canvas-1-benson-annotation-88.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "SG: Inside ourselves or inside the relationship?",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://moniolivo.github.io/anzaldua-spirituality-recordings/box-157-31-32-mp3-171-175-lisa-biow-ast-reading-new-haven-1982-january-03/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://moniolivo.github.io/anzaldua-spirituality-recordings/box-157-31-32-mp3-171-175-lisa-biow-ast-reading-new-haven-1982-january-03/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "RangeSelector",
+          "t": "646.0,649.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "box-157-31-32-mp3-171-175-lisa-biow-ast-reading-new-haven-1982-january-03-canvas-1-benson-annotation-89.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "GA: Inside the karmic link between the two of you. I guess it's inside both of you, since both of you make the link. Disks is the symbol for the wheel of fortune also, for you've got things in control. You've got a handle on it. This represents, again, the disks, health, external environment, and money, abundance. It's the earth symbol. She's a very unusual lady, because look at her eyes. She's sort of like three-dimensional. I don't know.",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://moniolivo.github.io/anzaldua-spirituality-recordings/box-157-31-32-mp3-171-175-lisa-biow-ast-reading-new-haven-1982-january-03/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://moniolivo.github.io/anzaldua-spirituality-recordings/box-157-31-32-mp3-171-175-lisa-biow-ast-reading-new-haven-1982-january-03/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "RangeSelector",
+          "t": "649.0,650.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "box-157-31-32-mp3-171-175-lisa-biow-ast-reading-new-haven-1982-january-03-canvas-1-benson-annotation-90.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "SG: The eyes remind me of the queen in Snow White. She reminds me of the wicked stepmother, actually. What's the background Gloria?",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://moniolivo.github.io/anzaldua-spirituality-recordings/box-157-31-32-mp3-171-175-lisa-biow-ast-reading-new-haven-1982-january-03/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://moniolivo.github.io/anzaldua-spirituality-recordings/box-157-31-32-mp3-171-175-lisa-biow-ast-reading-new-haven-1982-january-03/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "RangeSelector",
+          "t": "650.0,668.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "box-157-31-32-mp3-171-175-lisa-biow-ast-reading-new-haven-1982-january-03-canvas-1-benson-annotation-91.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "GA: Would you like some--?",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://moniolivo.github.io/anzaldua-spirituality-recordings/box-157-31-32-mp3-171-175-lisa-biow-ast-reading-new-haven-1982-january-03/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://moniolivo.github.io/anzaldua-spirituality-recordings/box-157-31-32-mp3-171-175-lisa-biow-ast-reading-new-haven-1982-january-03/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "RangeSelector",
+          "t": "668.0,677.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "box-157-31-32-mp3-171-175-lisa-biow-ast-reading-new-haven-1982-january-03-canvas-1-benson-annotation-92.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "SG: Yes, I would love. What's the background? Is it mountains?",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://moniolivo.github.io/anzaldua-spirituality-recordings/box-157-31-32-mp3-171-175-lisa-biow-ast-reading-new-haven-1982-january-03/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://moniolivo.github.io/anzaldua-spirituality-recordings/box-157-31-32-mp3-171-175-lisa-biow-ast-reading-new-haven-1982-january-03/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "RangeSelector",
+          "t": "677.0,701.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "box-157-31-32-mp3-171-175-lisa-biow-ast-reading-new-haven-1982-january-03-canvas-1-benson-annotation-93.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "GA: Yes, she's walked through the mountains. It's been a long, hard struggle, a journey. She's gone through the dark forest.",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://moniolivo.github.io/anzaldua-spirituality-recordings/box-157-31-32-mp3-171-175-lisa-biow-ast-reading-new-haven-1982-january-03/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://moniolivo.github.io/anzaldua-spirituality-recordings/box-157-31-32-mp3-171-175-lisa-biow-ast-reading-new-haven-1982-january-03/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "RangeSelector",
+          "t": "701.0,705.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "box-157-31-32-mp3-171-175-lisa-biow-ast-reading-new-haven-1982-january-03-canvas-1-benson-annotation-94.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "SG: Is that still a cloak? Is all that still the cloak that she's got there?",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://moniolivo.github.io/anzaldua-spirituality-recordings/box-157-31-32-mp3-171-175-lisa-biow-ast-reading-new-haven-1982-january-03/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://moniolivo.github.io/anzaldua-spirituality-recordings/box-157-31-32-mp3-171-175-lisa-biow-ast-reading-new-haven-1982-january-03/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "RangeSelector",
+          "t": "705.0,717.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "box-157-31-32-mp3-171-175-lisa-biow-ast-reading-new-haven-1982-january-03-canvas-1-benson-annotation-95.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "GA: That's part of the snake.",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://moniolivo.github.io/anzaldua-spirituality-recordings/box-157-31-32-mp3-171-175-lisa-biow-ast-reading-new-haven-1982-january-03/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://moniolivo.github.io/anzaldua-spirituality-recordings/box-157-31-32-mp3-171-175-lisa-biow-ast-reading-new-haven-1982-january-03/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "RangeSelector",
+          "t": "717.0,729.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "box-157-31-32-mp3-171-175-lisa-biow-ast-reading-new-haven-1982-january-03-canvas-1-benson-annotation-96.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "SG: Is that still a snake?",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://moniolivo.github.io/anzaldua-spirituality-recordings/box-157-31-32-mp3-171-175-lisa-biow-ast-reading-new-haven-1982-january-03/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://moniolivo.github.io/anzaldua-spirituality-recordings/box-157-31-32-mp3-171-175-lisa-biow-ast-reading-new-haven-1982-january-03/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "RangeSelector",
+          "t": "729.0,733.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "box-157-31-32-mp3-171-175-lisa-biow-ast-reading-new-haven-1982-january-03-canvas-1-benson-annotation-97.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "GA: That means that the regenerative powers are very great, transformative powers. Either it means that you're going to give birth to a project that's financially rewarding, or you're going to give birth to a new identity. Since the question is about the karmic link, it seems to me that the new identity applies, but I'm not sure.",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://moniolivo.github.io/anzaldua-spirituality-recordings/box-157-31-32-mp3-171-175-lisa-biow-ast-reading-new-haven-1982-january-03/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://moniolivo.github.io/anzaldua-spirituality-recordings/box-157-31-32-mp3-171-175-lisa-biow-ast-reading-new-haven-1982-january-03/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "RangeSelector",
+          "t": "733.0,736.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "box-157-31-32-mp3-171-175-lisa-biow-ast-reading-new-haven-1982-january-03-canvas-1-benson-annotation-98.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "SG: That's good. For sure it's not financial. [laughs] I don't see that at all. It must be the other.",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://moniolivo.github.io/anzaldua-spirituality-recordings/box-157-31-32-mp3-171-175-lisa-biow-ast-reading-new-haven-1982-january-03/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://moniolivo.github.io/anzaldua-spirituality-recordings/box-157-31-32-mp3-171-175-lisa-biow-ast-reading-new-haven-1982-january-03/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "RangeSelector",
+          "t": "736.0,753.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "box-157-31-32-mp3-171-175-lisa-biow-ast-reading-new-haven-1982-january-03-canvas-1-benson-annotation-99.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "GA: Yes. She looks a little tired. It's been a long haul.",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://moniolivo.github.io/anzaldua-spirituality-recordings/box-157-31-32-mp3-171-175-lisa-biow-ast-reading-new-haven-1982-january-03/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://moniolivo.github.io/anzaldua-spirituality-recordings/box-157-31-32-mp3-171-175-lisa-biow-ast-reading-new-haven-1982-january-03/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "RangeSelector",
+          "t": "753.0,754.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "box-157-31-32-mp3-171-175-lisa-biow-ast-reading-new-haven-1982-january-03-canvas-1-benson-annotation-100.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "SG: Mm-hmm. That's good.",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://moniolivo.github.io/anzaldua-spirituality-recordings/box-157-31-32-mp3-171-175-lisa-biow-ast-reading-new-haven-1982-january-03/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://moniolivo.github.io/anzaldua-spirituality-recordings/box-157-31-32-mp3-171-175-lisa-biow-ast-reading-new-haven-1982-january-03/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "RangeSelector",
+          "t": "754.0,765.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "box-157-31-32-mp3-171-175-lisa-biow-ast-reading-new-haven-1982-january-03-canvas-1-benson-annotation-101.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "GA: Okay. Do you have any questions about these three?",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://moniolivo.github.io/anzaldua-spirituality-recordings/box-157-31-32-mp3-171-175-lisa-biow-ast-reading-new-haven-1982-january-03/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://moniolivo.github.io/anzaldua-spirituality-recordings/box-157-31-32-mp3-171-175-lisa-biow-ast-reading-new-haven-1982-january-03/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "RangeSelector",
+          "t": "765.0,774.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "box-157-31-32-mp3-171-175-lisa-biow-ast-reading-new-haven-1982-january-03-canvas-1-benson-annotation-102.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "SG: The third one is the karmic link. The second one, the Hierophant, is how I see her, my perception of her. That is love.",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://moniolivo.github.io/anzaldua-spirituality-recordings/box-157-31-32-mp3-171-175-lisa-biow-ast-reading-new-haven-1982-january-03/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://moniolivo.github.io/anzaldua-spirituality-recordings/box-157-31-32-mp3-171-175-lisa-biow-ast-reading-new-haven-1982-january-03/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "RangeSelector",
+          "t": "774.0,786.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "box-157-31-32-mp3-171-175-lisa-biow-ast-reading-new-haven-1982-january-03-canvas-1-benson-annotation-103.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "GA: The interaction between the two.",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://moniolivo.github.io/anzaldua-spirituality-recordings/box-157-31-32-mp3-171-175-lisa-biow-ast-reading-new-haven-1982-january-03/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://moniolivo.github.io/anzaldua-spirituality-recordings/box-157-31-32-mp3-171-175-lisa-biow-ast-reading-new-haven-1982-january-03/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "RangeSelector",
+          "t": "786.0,788.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "box-157-31-32-mp3-171-175-lisa-biow-ast-reading-new-haven-1982-january-03-canvas-1-benson-annotation-104.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "SG: The interaction. Okay.",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://moniolivo.github.io/anzaldua-spirituality-recordings/box-157-31-32-mp3-171-175-lisa-biow-ast-reading-new-haven-1982-january-03/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://moniolivo.github.io/anzaldua-spirituality-recordings/box-157-31-32-mp3-171-175-lisa-biow-ast-reading-new-haven-1982-january-03/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "RangeSelector",
+          "t": "788.0,806.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "box-157-31-32-mp3-171-175-lisa-biow-ast-reading-new-haven-1982-january-03-canvas-1-benson-annotation-105.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "GA: Mostly yours, yes.",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://moniolivo.github.io/anzaldua-spirituality-recordings/box-157-31-32-mp3-171-175-lisa-biow-ast-reading-new-haven-1982-january-03/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://moniolivo.github.io/anzaldua-spirituality-recordings/box-157-31-32-mp3-171-175-lisa-biow-ast-reading-new-haven-1982-january-03/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "RangeSelector",
+          "t": "806.0,812.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "box-157-31-32-mp3-171-175-lisa-biow-ast-reading-new-haven-1982-january-03-canvas-1-benson-annotation-106.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "SG: Is there any connection between these two, the interaction and the karmic link?",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://moniolivo.github.io/anzaldua-spirituality-recordings/box-157-31-32-mp3-171-175-lisa-biow-ast-reading-new-haven-1982-january-03/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://moniolivo.github.io/anzaldua-spirituality-recordings/box-157-31-32-mp3-171-175-lisa-biow-ast-reading-new-haven-1982-january-03/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "RangeSelector",
+          "t": "812.0,827.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "box-157-31-32-mp3-171-175-lisa-biow-ast-reading-new-haven-1982-january-03-canvas-1-benson-annotation-107.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "GA: Yes, and I'll tie it up when I get there. Hi, Randy. You want to come in?",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://moniolivo.github.io/anzaldua-spirituality-recordings/box-157-31-32-mp3-171-175-lisa-biow-ast-reading-new-haven-1982-january-03/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://moniolivo.github.io/anzaldua-spirituality-recordings/box-157-31-32-mp3-171-175-lisa-biow-ast-reading-new-haven-1982-january-03/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "RangeSelector",
+          "t": "827.0,841.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "box-157-31-32-mp3-171-175-lisa-biow-ast-reading-new-haven-1982-january-03-canvas-1-benson-annotation-108.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Randy: [unintelligible 00:27:20]",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Media awareness",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://moniolivo.github.io/anzaldua-spirituality-recordings/box-157-31-32-mp3-171-175-lisa-biow-ast-reading-new-haven-1982-january-03/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://moniolivo.github.io/anzaldua-spirituality-recordings/box-157-31-32-mp3-171-175-lisa-biow-ast-reading-new-haven-1982-january-03/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "RangeSelector",
+          "t": "841.0,849.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "box-157-31-32-mp3-171-175-lisa-biow-ast-reading-new-haven-1982-january-03-canvas-1-benson-annotation-109.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "GA: Okay. Thanks.",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://moniolivo.github.io/anzaldua-spirituality-recordings/box-157-31-32-mp3-171-175-lisa-biow-ast-reading-new-haven-1982-january-03/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://moniolivo.github.io/anzaldua-spirituality-recordings/box-157-31-32-mp3-171-175-lisa-biow-ast-reading-new-haven-1982-january-03/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "RangeSelector",
+          "t": "849.0,857.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "box-157-31-32-mp3-171-175-lisa-biow-ast-reading-new-haven-1982-january-03-canvas-1-benson-annotation-110.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Randy: [unintelligible]",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://moniolivo.github.io/anzaldua-spirituality-recordings/box-157-31-32-mp3-171-175-lisa-biow-ast-reading-new-haven-1982-january-03/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://moniolivo.github.io/anzaldua-spirituality-recordings/box-157-31-32-mp3-171-175-lisa-biow-ast-reading-new-haven-1982-january-03/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "RangeSelector",
+          "t": "857.0,888.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "box-157-31-32-mp3-171-175-lisa-biow-ast-reading-new-haven-1982-january-03-canvas-1-benson-annotation-111.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "GA: Okay, before you leave, will you call the owl and the monkey? Thanks. Okay, the next thing I want to take up is your creativity and your career.",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://moniolivo.github.io/anzaldua-spirituality-recordings/box-157-31-32-mp3-171-175-lisa-biow-ast-reading-new-haven-1982-january-03/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://moniolivo.github.io/anzaldua-spirituality-recordings/box-157-31-32-mp3-171-175-lisa-biow-ast-reading-new-haven-1982-january-03/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "RangeSelector",
+          "t": "888.0,893.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "box-157-31-32-mp3-171-175-lisa-biow-ast-reading-new-haven-1982-january-03-canvas-1-benson-annotation-112.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "SG: You give a good, long reading. Am I taking too long?",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://moniolivo.github.io/anzaldua-spirituality-recordings/box-157-31-32-mp3-171-175-lisa-biow-ast-reading-new-haven-1982-january-03/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://moniolivo.github.io/anzaldua-spirituality-recordings/box-157-31-32-mp3-171-175-lisa-biow-ast-reading-new-haven-1982-january-03/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "RangeSelector",
+          "t": "893.0,905.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "box-157-31-32-mp3-171-175-lisa-biow-ast-reading-new-haven-1982-january-03-canvas-1-benson-annotation-113.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "GA: No, this is the usual. These three cards I use to tie in. This is the nine of disks and its game. It's ruled by-- It's a card of Libra, I'm Libra. Venus and Virgo, which is my card because my Venus is in Virgo. Okay, the woman that made the cards was named Frieda Harris. She had a very unusual relationship with Crowley in that they weren't lovers or anything, but they had a very close bond. Crowley was lovers with Ricardie at that time. Ricardie was very, very jealous. Very, very jealous of Crowley's relationship with Frieda Harris. Frieda Harris realized it was a karmic thing she had going with Crowley. She had no power in the relationship. The only thing she could do was represent it in the cards, so she did this.\n\nThere's a card-- a coin to represent each of the three. She had, one of her pet names for Crowley was the king. One of his pet names for her was the queen, or the princess or something like that. Anyway, she put Ricardie and Crowley up here showing that their relationship had prominence. It was more important. That her thing was synthesizing the information she was getting from Crowley and putting it into the cards. Her thing was resolving all these past life karma and stuff. She really knew that hers was not the most important relationship. It was very difficult for her. Very very difficult for her. She had suffered great pain.\n\nThis card she named Gain, because she had gained from this experience. It's a very-- If you look at it carefully, there's a picture of a bullseye and hitting the mark and she did that, and that's how she saw her relationship with Crowley despite all of the things. What this card represents is your receptivity, the feminine nature of, aspect of your nature, how you receive information, is very much on the mark, very much. You're very much able to do it.\n\nIf you center yourself and concentrate on it, you can get there. You can make a bullseye or whatever it's called. To do this, you need to take into account your love nature, the Venus aspect that the way you relate to people and the way you-- Como se dice? You cannot divorce your personal--",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Astrology",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://moniolivo.github.io/anzaldua-spirituality-recordings/box-157-31-32-mp3-171-175-lisa-biow-ast-reading-new-haven-1982-january-03/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://moniolivo.github.io/anzaldua-spirituality-recordings/box-157-31-32-mp3-171-175-lisa-biow-ast-reading-new-haven-1982-january-03/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "RangeSelector",
+          "t": "849.0,857.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "box-157-31-32-mp3-171-175-lisa-biow-ast-reading-new-haven-1982-january-03-canvas-1-benson-annotation-114.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "[recording stops 00:31:18]",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://moniolivo.github.io/anzaldua-spirituality-recordings/box-157-31-32-mp3-171-175-lisa-biow-ast-reading-new-haven-1982-january-03/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://moniolivo.github.io/anzaldua-spirituality-recordings/box-157-31-32-mp3-171-175-lisa-biow-ast-reading-new-haven-1982-january-03/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "RangeSelector",
+          "t": "857.0,888.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "box-157-31-32-mp3-171-175-lisa-biow-ast-reading-new-haven-1982-january-03-canvas-1-benson-annotation-115.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "[00:31:44] [END OF AUDIO]",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://moniolivo.github.io/anzaldua-spirituality-recordings/box-157-31-32-mp3-171-175-lisa-biow-ast-reading-new-haven-1982-january-03/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://moniolivo.github.io/anzaldua-spirituality-recordings/box-157-31-32-mp3-171-175-lisa-biow-ast-reading-new-haven-1982-january-03/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "RangeSelector",
+          "t": "888.0,893.0"
+        }
+      }
+    }
+  ]
+}
