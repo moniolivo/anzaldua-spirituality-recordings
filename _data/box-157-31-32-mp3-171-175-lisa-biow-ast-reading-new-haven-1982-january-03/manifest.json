@@ -1,0 +1,31 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://moniolivo.github.io/anzaldua-spirituality-recordings/box-157-31-32-mp3-171-175-lisa-biow-ast-reading-new-haven-1982-january-03/manifest.json",
+    "type": "Manifest",
+    "label": { "en": [ "Box 157.31-32 [mp3 #171, #175] Lisa Biow, Ast. Reading, New Haven, 1982 January 03" ] },
+    "items": [
+      {
+        "id": "https://moniolivo.github.io/anzaldua-spirituality-recordings/box-157-31-32-mp3-171-175-lisa-biow-ast-reading-new-haven-1982-january-03/canvas-1/canvas",
+        "type": "Canvas",
+        "duration": 0,
+        "items": [
+          {
+            "id": "https://moniolivo.github.io/anzaldua-spirituality-recordings/box-157-31-32-mp3-171-175-lisa-biow-ast-reading-new-haven-1982-january-03/canvas-1/paintings",
+            "type": "AnnotationPage",
+            "items": [
+              {
+                "id": "https://moniolivo.github.io/anzaldua-spirituality-recordings/box-157-31-32-mp3-171-175-lisa-biow-ast-reading-new-haven-1982-january-03/canvas-1/painting",
+                "type": "Annotation",
+                "motivation": "painting",
+                "body": {
+                  "id": "no media",
+                    "duration": 0
+                },
+                "target": "https://moniolivo.github.io/anzaldua-spirituality-recordings/box-157-31-32-mp3-171-175-lisa-biow-ast-reading-new-haven-1982-january-03/canvas-1/canvas"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+} 
