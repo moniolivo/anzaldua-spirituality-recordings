@@ -4,4 +4,4 @@
 
 layout: home
 ---
-<img src="Images/1_sSD4RgMWBE1SbbAcMMOS9Q (Medium).png">
+<img src="Images/1_sSD4RgMWBE1SbbAcMMOS9Q (Small).png">
