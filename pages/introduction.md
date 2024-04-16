@@ -6,25 +6,21 @@ permalink: introduction
 <!-- Add an essay or interpretive material below this line,
 using HTML or markdown.  Do not modify this file above this line -->
 ## **Annotating Spirituality in the Gloria Evangelina Anzaldúa Papers**
-
 I wonder if the academic world, which has so much of what I want, is too narrow and rigid for me to fit into. And then…I hear you speak, and I think all I need to do is to continue; being myself, thinking, writing, speaking, listening, reading, taking risks. The risks that you have taken, and continue to take, are such a gift to me. Your voice validates my being in a loving way. I thank you.
+<br>
 —Correspondence to Anzaldua, 1993
 <br><br>
 what have you given me? mostly yourself… your story… i’m not sure of the words.
+<br>
 —Correspondence to Anzaldua, 1985
 <br><br>
-Tamara, I miss you and I love you. In the past week or two my thoughts return to you again and again. You see, I am writing a book on fusing politics with spirituality and you are in it. Your teaching is in it. Meditations I did as a result of taking your class are in it. The spiritual breakthru’s that you inspired are in it. I want to hear your voice. I’m sending you a tape.
-—Anzaldua to Tamara Dhiaghilev, 1982
-
-<br><br>
 In a quiet room, you pull a CD from a paper envelope and place it in the drive of a desktop computer; it’s a copy of a tape recording from 1983. When you press it shut, the drive tray makes a small and satisfying click against your fingertip. The disk begins to whirr, suddenly the loudest thing in the room. You put in your earbuds and are surprised to remember the sound of your own breath. When was the last time you listened? The audio starts playing: First, a thick clack and the muffled grazing of hands over the microphone. Then, the gentle clatter of the tape recorder set down upon a hard surface. You hear a woman’s voice: 
-<br>
+<br><br>
 “What’s today?”
-<br>
+<br><br>
 “I don’t know…I think it’s the 9th…”
-<br>
+<br><br>
 “Today is July 9th, and Chela’s gonna read my palms. How about that?”
-
 <br><br>
 Housed at the Benson Latin American Collection, the Gloria Anzaldua Papers contain hundreds of cassette tapes recorded by the Chicana Feminist writer and theorist. The recordings document interviews, lectures, workshops, speeches, and oral histories; they also document Anzaldua´s interest in spirituality as a method of research and writing. Around 300 cassette tapes recorded and collected between the late 1970s and the early 2000s indicate that audio was a technology and medium Anzaldua embraced. Looking at her correspondence and manuscripts, the tapes are also evidence that Anzaldua centered her spiritual practice as a form of research. Between 1980 and 1983, Anzaldua recorded three palm readings she received: one from a palmist in New York, another from a metaphysical practitioner in San Francisco, and another from her friend and contemporary, Chela Sandoval.
 <br><br>
