@@ -13,7 +13,7 @@ I wonder if the academic world, which has so much of what I want, is too narrow 
 what have you given me? mostly yourself… your story… i’m not sure of the words.
 <br>
 —Correspondence to Anzaldua, 1985
-<br><br>
+<br><br><br>
 In a quiet room, you pull a CD from a paper envelope and place it in the drive of a desktop computer; it’s a copy of a tape recording from 1983. When you press it shut, the drive tray makes a small and satisfying click against your fingertip. The disk begins to whirr, suddenly the loudest thing in the room. You put in your earbuds and are surprised to remember the sound of your own breath. When was the last time you listened? The audio starts playing: First, a thick clack and the muffled grazing of hands over the microphone. Then, the gentle clatter of the tape recorder set down upon a hard surface. You hear a woman’s voice: 
 <br><br>
 “What’s today?”
