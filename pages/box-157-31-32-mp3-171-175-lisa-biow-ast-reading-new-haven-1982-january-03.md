@@ -9,4 +9,4 @@ external_manifest_url:
 ---
 <!-- Add an essay or interpretive material below this line,
 using HTML or markdown.  Do not modify this file above this line -->
-**Gloria Tarot for Sally Gearhart, 1981 May 14 - Box 157.30 [mp3 #62]**
+Gloria Tarot for Sally Gearhart, 1981 May 14 - Box 157.30 [mp3 #62]
