@@ -1,0 +1,287 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://moniolivo.github.io/anzaldua-spirituality-recordings/annotations/box-158-1-mp3-176-astrology-reading-undated-canvas-1-transcript.json",
+  "type": "AnnotationPage",
+  "label": "Transcript",
+  "items": [
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "box-158-1-mp3-176-astrology-reading-undated-canvas-1-transcript-annotation-0.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Amy: What I do want to do-- You've had your charts done before haven't you?\n\nCherrie: Yes, not very formally. I worked at a place where everybody--\n\nAmy: Had their chart done.\n\nCherrie: Yes. Where a person who was-- I worked in this house food place and then a woman who did a lot of astrology had done my chart but between breaks she would show me it.\n\nAmy: Oh, I see.\n\nCherrie: It wasn't like we had a real formal thing.\n\nAmy: I get you. All right, well, but you're familiar with how a chart is set up, aren't you?\n\nCherrie: Yes.\n\nAmy: The fact that there are planets, and signs, and houses and that kind of stuff.\n\nCherrie: Yes.\n\nAmy: Well, what I'll do then is first of all I'm just going to talk about your chart as a whole and give you an overview. The second thing I'll do is talk about your sun sign, your rising sign, and your moon sign, and how they fit together, and how they work. The third thing I'll do if we have time is to go through each house individually and talk about what's in each house until I get around to the whole again. Okay?\n\nCherrie: Okay.\n\nAmy: For sure if you have any questions or comments or anything to just go right ahead.\n\nCherrie: Okay.",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://moniolivo.github.io/anzaldua-spirituality-recordings/box-158-1-mp3-176-astrology-reading-undated/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://moniolivo.github.io/anzaldua-spirituality-recordings/box-158-1-mp3-176-astrology-reading-undated/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "RangeSelector",
+          "t": "0.0,48.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "box-158-1-mp3-176-astrology-reading-undated-canvas-1-transcript-annotation-1.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Amy: Well, the first thing I want to talk about as far as your chart goes is the fact that you do have two major aspects in your chart. What that means is that when you were born Cherrie, at the moment of your birth there happened to have been the planet situated themselves in such a way that they actually formed these big shapes in the middle of the sky. To have one is not super unusual but it's not that common either, but to have two is considered highly unusual, and they're very important because they tend to color everything else in the chart.\nYou have both a T-square and a Yod, and the T-square is caused because you have two planets that were 180 degrees away from each other, so they formed this straight line, the red line. Then you had another planet that was 90 degrees from the other two, so it forms two right angles or a T shape in the middle of the sky. The T-square gives you the feeling that if you just had X, everything in your life would fit together. However, X can be anything, Cherrie. That X could be a relationship, it could be money, it could be material object, it could be work, it could be the perfect body.\nIt could be the perfect mind, it could be anything and X can change. You can decide oh, oh, this is really X on Tuesday and then maybe by Thursday, you can say well I thought about it again and I realized that's not really X, this is X instead. If you do decide that a particular issue is X and you go off and you get it you really work at it, for a while it really does make you feel complete. After a while it really gives you the feeling of just like gee, this isn't quite right, it isn't quite working. You really feel oh I have to go off and I have to find something else to fulfill me.\nIt's really analogous to going around and looking for wall outlets. You find an outlet, and you plug your plug into it and the energy starts flowing through and you feel really great and then all of a sudden you short out. Of course, the most normal thing to do in that point is to pull your plug out of the outlet and to say, \"Oh what a stupid outlet, it isn't working, I got to go find another outlet.\" What the T-square is saying is that you do have the short circuit inside of you. Now the short circuit is caused because you have an imbalance of energy.\nNow you're not doomed to the short circuit. It's not saying to you, \"Oh, well, tough luck, Cherrie, for the rest of your life you're going to be like this.\" It's saying no, okay there is an imbalance and you can write the imbalance. Now what the imbalance is depends upon the particular planets in the T-square. Now in your case, you have a special kind of T-square, because it doesn't just involve planets. It also involves these two points which are called the nodes. Now the nodes, are not really planets at all.\nIf you take the orbit of the earth around the sun, and then you take the orbit of the earth's moon around the earth, those orbits cross in two places. The intersection that faces north is the north node, and it points up, and it represents breaking away from past life karma. The intersection that faces down is the self node, and it represents getting sucked into past life karma.\n\nCherrie: Great.",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://moniolivo.github.io/anzaldua-spirituality-recordings/box-158-1-mp3-176-astrology-reading-undated/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://moniolivo.github.io/anzaldua-spirituality-recordings/box-158-1-mp3-176-astrology-reading-undated/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "RangeSelector",
+          "t": "48.0,164.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "box-158-1-mp3-176-astrology-reading-undated-canvas-1-transcript-annotation-2.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Amy: To have a T-square with the nodes first of all Cherrie it's telling you that this is an old energy. That this is something that you have been dealing with for lifetimes and lifetimes and lifetimes, and you finally get to it and say, \"Okay this is it. I really have to deal with this energy.\" What the imbalance is about, is connected to these planets because your Pluto-- now Pluto rules transformation and power. It is conjunct, which means it's just totally together with right on top of your self node which is past life karma.\nWhat this says is that in a past life, you were extremely powerful and you felt that your power was your work. It wasn't just powerful personally maybe you were in a situation where you had a lot of personal power, but outwardly nobody saw it. It's saying that you were outwardly known for your power and that you got very connected up to it because of the Leo in a very egoistic way. Instead of seeing yourself as a channel for the power, you really totally identified with this power and said, \"Yes, this is who I am. I'm the power and what I want is right for everybody.\"",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://moniolivo.github.io/anzaldua-spirituality-recordings/box-158-1-mp3-176-astrology-reading-undated/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://moniolivo.github.io/anzaldua-spirituality-recordings/box-158-1-mp3-176-astrology-reading-undated/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "RangeSelector",
+          "t": "95.0,280.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "box-158-1-mp3-176-astrology-reading-undated-canvas-1-transcript-annotation-3.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Amy: Now where's Leo? Because the south node and the Pluto are in the sign Leo, and the Leo indicates that it was a real ego attachment to that power. Now, you also have this energy square to 90 degrees away from the planet Jupiter. Now, Jupiter Cherrie is always a blessing except when it's in a square position, because in that case because Jupiter is expansion it represents over expansion. It represents something that once was good but has turned into too much.",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://moniolivo.github.io/anzaldua-spirituality-recordings/box-158-1-mp3-176-astrology-reading-undated/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://moniolivo.github.io/anzaldua-spirituality-recordings/box-158-1-mp3-176-astrology-reading-undated/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "RangeSelector",
+          "t": "144.0,396.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "box-158-1-mp3-176-astrology-reading-undated-canvas-1-transcript-annotation-4.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Amy: Having Jupiter there square to the Pluto in the south node, that's the fact that you took on the power because you felt it was the right thing to do. You didn't start off saying, \"Hey, wow, I want to have a lot of power. I'm just going to get in there and be incredible and have all this power and do whatever the hell I want.\" It's saying that you started off with very noble aspirations, but what happened is that the more power you got the more you liked it and the more it felt like hey this is pretty good.\nAll right, I must be pretty far out to have this power, and then the more you got in touch with it the more you wanted it, and the more you got blinded to what was the right balance the more you felt that you had to be the certain energy. Your north node is in Aquarius, and the north node is the breaking away from past life energy. In Aquarius, it says that you're breaking away is by seeing the truth that you're breaking through illusions. Now, the key here is that it's all illusions.",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://moniolivo.github.io/anzaldua-spirituality-recordings/box-158-1-mp3-176-astrology-reading-undated/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://moniolivo.github.io/anzaldua-spirituality-recordings/box-158-1-mp3-176-astrology-reading-undated/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "RangeSelector",
+          "t": "191.0,512.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "box-158-1-mp3-176-astrology-reading-undated-canvas-1-transcript-annotation-5.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Amy: It's not just the illusion of power because you have really learned your lesson having a really packed 12-house. It's telling you that you've been dealing with this power issue for a lifetime. It's not like oh in your last life you blew it and now you have to be real careful about power. You've already seen the negative side of the misuse of power and been the victim now of a misuse of power. This has already happened to you. You don't have to see, \"Oh gee, what is power? I can't use it blah blah blah.\"\nIn fact, in this lifetime you have to reconnect to the use of power. You have to really see that it is important for you to use this power, and yet what it's saying is you have to use the power with the light in the truth, and that this is a very intense energy for you. Quite naturally a part of you is scared shitless because you look at that power and it's like, \"Oh, yes, I remember you. I remember what you were like, forget it I'm not here.\" Naturally with the T, you feel this incredible duality, because some of the time you feel like, \"Who me, Cherrie? Oh no, not me. I don't know what you're talking about. What power? I got no power.\"",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://moniolivo.github.io/anzaldua-spirituality-recordings/box-158-1-mp3-176-astrology-reading-undated/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://moniolivo.github.io/anzaldua-spirituality-recordings/box-158-1-mp3-176-astrology-reading-undated/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "RangeSelector",
+          "t": "240.0,628.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "box-158-1-mp3-176-astrology-reading-undated-canvas-1-transcript-annotation-6.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Amy: Yet at the same time, the people are there saying, \"Oh, Cherrie she doesn't have any power.?\" It's like, \"What do you mean I don't any? Hey, listen, I have all this power and I got to use this power. Here I am.\" Then it's like, \"Oh my God, what did I do?\" \"Oh, no. No, I was just kidding. Just kidding, folks. No, I don't have any power. No, no, no, no. Of course, I have power.\" It goes back and forth. There are some days in which you're right up there, you're right there looking straight into your destiny and saying, \"Yes, this is who I am, and this is who I have to be.\" Other days you're just looking at that and saying, \"Oh my God, I can't possibly accept this power. This is just much too scary. It's much too much. No, I can't deal with it.\"\nIt is this duality of saying, \"Yes, I want it. No, I don't. Yes, I've got to have it. No, I can't.\" What you're trying to do is to find the perfect balance, is to be able to be a channel of that power, accept your power, but not feel that you have to take on too much of the power and not feel that you can't accept yourself as you truly are. It's a real connection to the truth inside of yourself. Yet at the same time, it's saying that you cannot possibly ignore this power. You must deal with it. That's a really important energy with the T.\n\nCherrie: What were you saying about the illusion thing?",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://moniolivo.github.io/anzaldua-spirituality-recordings/box-158-1-mp3-176-astrology-reading-undated/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://moniolivo.github.io/anzaldua-spirituality-recordings/box-158-1-mp3-176-astrology-reading-undated/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "RangeSelector",
+          "t": "287.0,744.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "box-158-1-mp3-176-astrology-reading-undated-canvas-1-transcript-annotation-7.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Amy: Now, the illusion works in two different ways. First of all, it's the illusion that you can use power any old way you want. Every time you get a little bit too egoistic or too cocky with that power, you do get smashed. Every time you say, \"Oh, right. Hey, I want this.\" You talk yourself into thinking, \"Oh, this is for everyone else, and it's really for Cherrie and it's long, and it's like the neon signs go off and the sirens, and it's like, \"Don, don, don, wonk.\"\nIt's like, \"Whoops, okay, I'm not going to do it this time.\" The second side though, is the more insidious side, because that part of the illusion is the illusion that your negativity does to say to you, \"Oh, well, you can't have power. You're just too messed up. You'll really misuse it. You can't touch it.\" The reason why it does that is from your dark side's point of view, you're in this really terrible position because first of all, it had power.",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://moniolivo.github.io/anzaldua-spirituality-recordings/box-158-1-mp3-176-astrology-reading-undated/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://moniolivo.github.io/anzaldua-spirituality-recordings/box-158-1-mp3-176-astrology-reading-undated/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "RangeSelector",
+          "t": "336.0,860.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "box-158-1-mp3-176-astrology-reading-undated-canvas-1-transcript-annotation-8.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "END OF TAPE",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://moniolivo.github.io/anzaldua-spirituality-recordings/box-158-1-mp3-176-astrology-reading-undated/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://moniolivo.github.io/anzaldua-spirituality-recordings/box-158-1-mp3-176-astrology-reading-undated/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "860.0"
+        }
+      }
+    }
+  ]
+}
