@@ -1,0 +1,46 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://moniolivo.github.io/anzaldua-spirituality-recordings/box-158-1-mp3-176-astrology-reading-undated/manifest.json",
+    "type": "Manifest",
+    "label": { "en": [ "Box 158.1 [mp3 #176] Astrology Reading, undated" ] },
+    "homepage": [
+      {
+        "id": "https://txarchives.org/utlac/finding_aids/00189.xml",
+        "type": "Text",
+        "label": { "en": [ "Box 158.1 [mp3 #176] Astrology Reading, undated" ] },
+        "format": "text/html"
+      }
+    ],
+    "provider": [
+      {
+        "id": "https://llilasbenson.utexas.edu/",
+        "type": "Agent",
+        "label": { "en": [ "LLILAS Benson" ] }
+      }
+    ],
+    "items": [
+      {
+        "id": "https://moniolivo.github.io/anzaldua-spirituality-recordings/box-158-1-mp3-176-astrology-reading-undated/canvas-1/canvas",
+        "type": "Canvas",
+        "duration": 860.0,
+        "items": [
+          {
+            "id": "https://moniolivo.github.io/anzaldua-spirituality-recordings/box-158-1-mp3-176-astrology-reading-undated/canvas-1/paintings",
+            "type": "AnnotationPage",
+            "items": [
+              {
+                "id": "https://moniolivo.github.io/anzaldua-spirituality-recordings/box-158-1-mp3-176-astrology-reading-undated/canvas-1/painting",
+                "type": "Annotation",
+                "motivation": "painting",
+                "body": {
+                  "id": "no media",
+                    "duration": 860.0
+                },
+                "target": "https://moniolivo.github.io/anzaldua-spirituality-recordings/box-158-1-mp3-176-astrology-reading-undated/canvas-1/canvas"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+} 
