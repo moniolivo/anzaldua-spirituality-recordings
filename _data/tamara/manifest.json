@@ -23,6 +23,24 @@
         "id": "https://moniolivo.github.io/anzaldua-spirituality-recordings/tamara/canvas-1/canvas",
         "type": "Canvas",
         "duration": 2691.0,
+        "annotations": [
+          
+          {
+            "type": "AnnotationPage",
+            "id": "https://moniolivo.github.io/anzaldua-spirituality-recordings/annotations/tamara-canvas-1-transcript.json",
+            "label": {
+              "none": ["Transcript"]
+            }
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://moniolivo.github.io/anzaldua-spirituality-recordings/annotations/tamara-canvas-1-location.json",
+            "label": {
+              "none": ["Location"]
+            }
+          }
+        ],
         "items": [
           {
             "id": "https://moniolivo.github.io/anzaldua-spirituality-recordings/tamara/canvas-1/paintings",
