@@ -23,6 +23,96 @@
         "id": "https://moniolivo.github.io/anzaldua-spirituality-recordings/lieberman-2/canvas-1/canvas",
         "type": "Canvas",
         "duration": 2798.0,
+        "annotations": [
+          
+          {
+            "type": "AnnotationPage",
+            "id": "https://moniolivo.github.io/anzaldua-spirituality-recordings/annotations/lieberman-2-canvas-1-title--san-francisco-state---box--134.json",
+            "label": {
+              "none": ["Title: San Francisco State | Box: 134"]
+            }
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://moniolivo.github.io/anzaldua-spirituality-recordings/annotations/lieberman-2-canvas-1-title---courting-death----1976--1979---location--box--85---folder--28.json",
+            "label": {
+              "none": ["Title: \"Courting Death,\", 1976, 1979 | Location: Box: 85 | Folder: 28"]
+            }
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://moniolivo.github.io/anzaldua-spirituality-recordings/annotations/lieberman-2-canvas-1-title--indiana---box--226.json",
+            "label": {
+              "none": ["Title: Indiana | Box: 226"]
+            }
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://moniolivo.github.io/anzaldua-spirituality-recordings/annotations/lieberman-2-canvas-1-title--writing-guide---box-55.json",
+            "label": {
+              "none": ["Title: Writing Guide | Box 55"]
+            }
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://moniolivo.github.io/anzaldua-spirituality-recordings/annotations/lieberman-2-canvas-1-title--c-v-s-and-resumes--undated---location--box--1---folder--4.json",
+            "label": {
+              "none": ["Title: C.V.s and Resumes, undated | Location: Box: 1 | Folder: 4"]
+            }
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://moniolivo.github.io/anzaldua-spirituality-recordings/annotations/lieberman-2-canvas-1-title--health-and-diet-information---box--3.json",
+            "label": {
+              "none": ["Title: Health and Diet Information | Box: 3"]
+            }
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://moniolivo.github.io/anzaldua-spirituality-recordings/annotations/lieberman-2-canvas-1-title--other---box--5.json",
+            "label": {
+              "none": ["Title: Other | Box: 5"]
+            }
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://moniolivo.github.io/anzaldua-spirituality-recordings/annotations/lieberman-2-canvas-1-transcript.json",
+            "label": {
+              "none": ["Transcript"]
+            }
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://moniolivo.github.io/anzaldua-spirituality-recordings/annotations/lieberman-2-canvas-1-title--handwriting-analysis---location--box--5---folder--8.json",
+            "label": {
+              "none": ["Title: Handwriting Analysis | Location: Box: 5 | Folder: 8"]
+            }
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://moniolivo.github.io/anzaldua-spirituality-recordings/annotations/lieberman-2-canvas-1-title--psychology-metaphysics-health---box--166.json",
+            "label": {
+              "none": ["Title: Psychology/Metaphysics/Health | Box: 166"]
+            }
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://moniolivo.github.io/anzaldua-spirituality-recordings/annotations/lieberman-2-canvas-1-title--natal-chart--gloria-anzald-a-and-chela-sandoval---location--box--5---folder--11.json",
+            "label": {
+              "none": ["Title: Natal chart, Gloria Anzaldúa and Chela Sandoval | Location: Box: 5 | Folder: 11"]
+            }
+          }
+        ],
         "items": [
           {
             "id": "https://moniolivo.github.io/anzaldua-spirituality-recordings/lieberman-2/canvas-1/paintings",

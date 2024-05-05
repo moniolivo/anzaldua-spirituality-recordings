@@ -1,0 +1,39 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://moniolivo.github.io/anzaldua-spirituality-recordings/annotations/lieberman-2-canvas-1-title---courting-death----1976--1979---location--box--85---folder--28.json",
+  "type": "AnnotationPage",
+  "label": "Title: \"Courting Death,\", 1976, 1979 | Location: Box: 85 | Folder: 28",
+  "items": [
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "lieberman-2-canvas-1-title---courting-death----1976--1979---location--box--85---folder--28-annotation-0.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "JL: Listen, you’re lucky to be here.\n\nGA: Am I?\n\nJL: I mean, you’re here. You’re pretty healthy.\n\nGA: I’ve come close to death a whole lot of times\n\nJL: I know. You’re a strong lady…\n\nGA: This- I broke that and the wrist bone. Two, three years ago.\n\nJL: At this point you are right-handed though, right?\n\nGA: Yes. I do not-I can’t write with my left hand anymore. I can do some heavy things, but mostly the fine things I have to do with my right hand.",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://moniolivo.github.io/anzaldua-spirituality-recordings/lieberman-2/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://moniolivo.github.io/anzaldua-spirituality-recordings/lieberman-2/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "RangeSelector",
+          "t": "471.0,531.0"
+        }
+      }
+    }
+  ]
+}

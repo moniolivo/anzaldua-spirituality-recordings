@@ -1,0 +1,70 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://moniolivo.github.io/anzaldua-spirituality-recordings/annotations/lieberman-2-canvas-1-title--psychology-metaphysics-health---box--166.json",
+  "type": "AnnotationPage",
+  "label": "Title: Psychology/Metaphysics/Health | Box: 166",
+  "items": [
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "lieberman-2-canvas-1-title--psychology-metaphysics-health---box--166-annotation-0.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<html>JL: Are your hands always this terribly hot?\n\nGA: Um, no I think–I had a hysterectomy, so I get hot flashes once in a while. And I think I’m having one right now. I’m not sure though. But usually they are warm.\n\n<i>Lieberman asks Anzaldúa about past injuries to two of her fingers. Anzaldúa responds that they may have been sprained but never broken.</i>\n\nJL: Has anything happened with these two fingers?\n\nGA: No they’ve never been broken.\n\nJL: They have always been like this.\n\nGA: Yes. This one I think I hurt or sprained. But both of those [inaudible]</html>",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://moniolivo.github.io/anzaldua-spirituality-recordings/lieberman-2/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://moniolivo.github.io/anzaldua-spirituality-recordings/lieberman-2/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "RangeSelector",
+          "t": "13.0,46.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "lieberman-2-canvas-1-title--psychology-metaphysics-health---box--166-annotation-1.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "JL: When did you have your hysterectomy, Gloria?\n\nGA: March 20th of last year.\n\nJL: March 20th of last year.\n\nGA: Over six months ago.\n\nJL: And that changed the temperature of your body did it?\n\nGA: I get...Have hormone imbalance so that. I get hot flashes and I’m taking some herbs for it, but its been hard lately. [inaudible]",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://moniolivo.github.io/anzaldua-spirituality-recordings/lieberman-2/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://moniolivo.github.io/anzaldua-spirituality-recordings/lieberman-2/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "RangeSelector",
+          "t": "59.0,83.0"
+        }
+      }
+    }
+  ]
+}
