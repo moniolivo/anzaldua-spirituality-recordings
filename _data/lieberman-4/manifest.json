@@ -27,14 +27,6 @@
           
           {
             "type": "AnnotationPage",
-            "id": "https://moniolivo.github.io/anzaldua-spirituality-recordings/annotations/lieberman-4-canvas-1-location.json",
-            "label": {
-              "none": ["Location"]
-            }
-          }
-          ,
-          {
-            "type": "AnnotationPage",
             "id": "https://moniolivo.github.io/anzaldua-spirituality-recordings/annotations/lieberman-4-canvas-1-transcript.json",
             "label": {
               "none": ["Transcript"]
