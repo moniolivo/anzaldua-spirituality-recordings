@@ -1,0 +1,194 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://moniolivo.github.io/anzaldua-spirituality-recordings/annotations/che-reads-my-palms-santa-cruz-ca-10-july-1983-side-b--canvas-1-transcript.json",
+  "type": "AnnotationPage",
+  "label": "Transcript",
+  "items": [
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "che-reads-my-palms-santa-cruz-ca-10-july-1983-side-b--canvas-1-transcript-annotation-0.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "[Start of Recording]",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://moniolivo.github.io/anzaldua-spirituality-recordings/che-reads-my-palms-santa-cruz-ca-10-july-1983-side-b-/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://moniolivo.github.io/anzaldua-spirituality-recordings/che-reads-my-palms-santa-cruz-ca-10-july-1983-side-b-/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "0.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "che-reads-my-palms-santa-cruz-ca-10-july-1983-side-b--canvas-1-transcript-annotation-1.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "CS: Anyway, you can see the trauma in the early part of my life that was centered around my heart. But that now I’ve been able to clear up a lot of that pain and hurt. And in fact it's given me a great capacity to feel love and compassion for other people.",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://moniolivo.github.io/anzaldua-spirituality-recordings/che-reads-my-palms-santa-cruz-ca-10-july-1983-side-b-/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://moniolivo.github.io/anzaldua-spirituality-recordings/che-reads-my-palms-santa-cruz-ca-10-july-1983-side-b-/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "RangeSelector",
+          "t": "5.0,21.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "che-reads-my-palms-santa-cruz-ca-10-july-1983-side-b--canvas-1-transcript-annotation-2.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "GA: Bueno. What about um, like someone told me that I was blocking because my hands are knobbed de aquí? That I was blocking certain things. And when people, when palm readers tell you to do like that, what does that mean?\n\nCS: They wanna see the shape of your fingers and of your hand [yawns] every hand tells you something like, I mean what your hand and fingers tell me is that you have a lot of different capacities for different–you have a lot of different potentials for your energies to go in different directions. You don’t have to be an artist, you don’t have to be a writer, you don’t–you could be a teacher. You could be a mathematician. You could be a worker with your hands. You could work in a cannery. You could–there’s a lot of different things that you are capable of doing. You're not stuck in any one.\n\nGA: Right.\n\n[Crosstalking]\n\nCS: There were a lot of things that you could have done and done well. Taken care of and…\n\nGA: I used to work a lot with my hands. I worked in a cannery. I have been a seamstress. I have done another craft. I have been a secretary.",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://moniolivo.github.io/anzaldua-spirituality-recordings/che-reads-my-palms-santa-cruz-ca-10-july-1983-side-b-/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://moniolivo.github.io/anzaldua-spirituality-recordings/che-reads-my-palms-santa-cruz-ca-10-july-1983-side-b-/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "RangeSelector",
+          "t": "21.0,93.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "che-reads-my-palms-santa-cruz-ca-10-july-1983-side-b--canvas-1-transcript-annotation-3.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "CS: I think that’s what this tells. But [yawns] this knobbiness, I have to check. I’ll ask my mom. I have kind of something like that. And also my. This one. Feel how big that knuckle is right there. The other side…\n\nGA: Oh, sí.\n\nCS: It goes fat that way. The other one goes fat the other way. And also my fingers are crooked, like not as much as yours, but they still have that crookedness.\n\nGA: Well it means something that your Apollo finger curves toward the Saturn. I mean, that means something.\n\nCS: Mmhmm. Yeah all that means something but I don’t know how to do that kind of detailed really.\n\nCS: [pause] See on this hand, I had the potential to have great health in this lifetime. I don’t have hardly any health line at all. But the way I’m living is such that I’m bringing the health line here. So that’s just a warning that I have to watch out for my…\n\nGA: For your health?\n\nCS: Mmhmm. Wow, I’m able to love a lot more in this lifetime than I was before. And less romantically sort of like you. You’re moving in that direction. But at the cost of my intellectual development. So maybe that’s why I’m working on that now.\n\nGA: With Rosa? Maybe you have to balance the two. I’m very interested in what happens to this line. The emotional… [long pause]",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://moniolivo.github.io/anzaldua-spirituality-recordings/che-reads-my-palms-santa-cruz-ca-10-july-1983-side-b-/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://moniolivo.github.io/anzaldua-spirituality-recordings/che-reads-my-palms-santa-cruz-ca-10-july-1983-side-b-/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "RangeSelector",
+          "t": "93.0,230.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "che-reads-my-palms-santa-cruz-ca-10-july-1983-side-b--canvas-1-transcript-annotation-4.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "GA: Thank you! Thank you, thank you, thank you, that was great!\n\nCS: De nada\n\nGA: Cause you told me stuff nobody else had told me like about the romantic stuff and all that. Nobody had ever said anything about my emotional–my heart line.\n\nCS: Huh, that’s funny\n\nGA: I had heard the stuff about the fate. But I hadn’t heard anything about the emotional stuff.\n\nCS: That’s why I wanted that woman to read our palms when we went there to Long Island.\n\nGA: Well she’s still there!\n\nCS: Yeah, but all she did–she doesn’t read palms like I do, she was like this, and then she just does a psychic reading. She doesn’t actually read the lines. Which is a different kind of\n\nGA: Right and she was also taking cards out\n\nCS: So she probably started out with tarot and then just uses the hands as a way of\n\nGA: Well she looked at my hand and she said that my lover-ooh- that his name started with an 'N', I said oh it’s not a his–it’s not a he, it's a she. So she says 'A' or a 'B', those are their names.\n\nCS: Who was that? Remember she said that kind of thing to me too. I wish I would have remembered. She said when I went back, I was gonna get involved with some….\n\nGA: Didn’t you get involved with Vivian? Or was that before?\n\nCS: We were trying to see if it meant Vivian and it was like–but anyway she didn’t do this kind of palm reading, which I’m still looking for a good palmist to read my hand.",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://moniolivo.github.io/anzaldua-spirituality-recordings/che-reads-my-palms-santa-cruz-ca-10-july-1983-side-b-/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://moniolivo.github.io/anzaldua-spirituality-recordings/che-reads-my-palms-santa-cruz-ca-10-july-1983-side-b-/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "RangeSelector",
+          "t": "230.0,319.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "che-reads-my-palms-santa-cruz-ca-10-july-1983-side-b--canvas-1-transcript-annotation-5.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "[tape stops]",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://moniolivo.github.io/anzaldua-spirituality-recordings/che-reads-my-palms-santa-cruz-ca-10-july-1983-side-b-/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://moniolivo.github.io/anzaldua-spirituality-recordings/che-reads-my-palms-santa-cruz-ca-10-july-1983-side-b-/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "319.0"
+        }
+      }
+    }
+  ]
+}

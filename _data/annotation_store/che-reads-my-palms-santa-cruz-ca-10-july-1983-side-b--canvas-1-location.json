@@ -1,0 +1,39 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://moniolivo.github.io/anzaldua-spirituality-recordings/annotations/che-reads-my-palms-santa-cruz-ca-10-july-1983-side-b--canvas-1-location.json",
+  "type": "AnnotationPage",
+  "label": "Location",
+  "items": [
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "che-reads-my-palms-santa-cruz-ca-10-july-1983-side-b--canvas-1-location-annotation-0.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Title: Early autobiography, 1982 | Location: Box: 78 | Folder: 10-11",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://moniolivo.github.io/anzaldua-spirituality-recordings/che-reads-my-palms-santa-cruz-ca-10-july-1983-side-b-/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://moniolivo.github.io/anzaldua-spirituality-recordings/che-reads-my-palms-santa-cruz-ca-10-july-1983-side-b-/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "RangeSelector",
+          "t": "21.0,93.0"
+        }
+      }
+    }
+  ]
+}

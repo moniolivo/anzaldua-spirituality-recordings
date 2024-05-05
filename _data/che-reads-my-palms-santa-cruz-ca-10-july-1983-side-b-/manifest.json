@@ -23,6 +23,24 @@
         "id": "https://moniolivo.github.io/anzaldua-spirituality-recordings/che-reads-my-palms-santa-cruz-ca-10-july-1983-side-b-/canvas-1/canvas",
         "type": "Canvas",
         "duration": 319.0,
+        "annotations": [
+          
+          {
+            "type": "AnnotationPage",
+            "id": "https://moniolivo.github.io/anzaldua-spirituality-recordings/annotations/che-reads-my-palms-santa-cruz-ca-10-july-1983-side-b--canvas-1-location.json",
+            "label": {
+              "none": ["Location"]
+            }
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://moniolivo.github.io/anzaldua-spirituality-recordings/annotations/che-reads-my-palms-santa-cruz-ca-10-july-1983-side-b--canvas-1-transcript.json",
+            "label": {
+              "none": ["Transcript"]
+            }
+          }
+        ],
         "items": [
           {
             "id": "https://moniolivo.github.io/anzaldua-spirituality-recordings/che-reads-my-palms-santa-cruz-ca-10-july-1983-side-b-/canvas-1/paintings",
