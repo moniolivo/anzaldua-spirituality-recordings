@@ -1,0 +1,46 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://moniolivo.github.io/anzaldua-spirituality-recordings/che-reads-my-palms-santa-cruz-ca-10-july-1983-side-b-/manifest.json",
+    "type": "Manifest",
+    "label": { "en": [ "Che reads my palms, Santa Cruz, CA, 10 July 1983 [Side B]" ] },
+    "homepage": [
+      {
+        "id": "https://txarchives.org/utlac/finding_aids/00189.xml",
+        "type": "Text",
+        "label": { "en": [ "Che reads my palms, Santa Cruz, CA, 10 July 1983 [Side B]" ] },
+        "format": "text/html"
+      }
+    ],
+    "provider": [
+      {
+        "id": "https://llilasbenson.utexas.edu/",
+        "type": "Agent",
+        "label": { "en": [ "LLILAS Benson" ] }
+      }
+    ],
+    "items": [
+      {
+        "id": "https://moniolivo.github.io/anzaldua-spirituality-recordings/che-reads-my-palms-santa-cruz-ca-10-july-1983-side-b-/canvas-1/canvas",
+        "type": "Canvas",
+        "duration": 319.0,
+        "items": [
+          {
+            "id": "https://moniolivo.github.io/anzaldua-spirituality-recordings/che-reads-my-palms-santa-cruz-ca-10-july-1983-side-b-/canvas-1/paintings",
+            "type": "AnnotationPage",
+            "items": [
+              {
+                "id": "https://moniolivo.github.io/anzaldua-spirituality-recordings/che-reads-my-palms-santa-cruz-ca-10-july-1983-side-b-/canvas-1/painting",
+                "type": "Annotation",
+                "motivation": "painting",
+                "body": {
+                  "id": "no media",
+                    "duration": 319.0
+                },
+                "target": "https://moniolivo.github.io/anzaldua-spirituality-recordings/che-reads-my-palms-santa-cruz-ca-10-july-1983-side-b-/canvas-1/canvas"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+} 
