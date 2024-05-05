@@ -1,0 +1,225 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://moniolivo.github.io/anzaldua-spirituality-recordings/annotations/chela-1-canvas-1-location.json",
+  "type": "AnnotationPage",
+  "label": "Location",
+  "items": [
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "chela-1-canvas-1-location-annotation-0.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Title: Natal chart, Gloria Anzaldúa and Chela Sandoval | Location: Box: 5 | Folder: 11",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://moniolivo.github.io/anzaldua-spirituality-recordings/chela-1/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://moniolivo.github.io/anzaldua-spirituality-recordings/chela-1/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "RangeSelector",
+          "t": "0.0,37.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "chela-1-canvas-1-location-annotation-1.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Title: Handwriting Analysis | Location: Box: 5 | Folder: 8",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://moniolivo.github.io/anzaldua-spirituality-recordings/chela-1/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://moniolivo.github.io/anzaldua-spirituality-recordings/chela-1/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "RangeSelector",
+          "t": "33.0,172.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "chela-1-canvas-1-location-annotation-2.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Title: C.V.s and Resumes, undated | Location: Box: 1 | Folder: 4",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://moniolivo.github.io/anzaldua-spirituality-recordings/chela-1/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://moniolivo.github.io/anzaldua-spirituality-recordings/chela-1/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "RangeSelector",
+          "t": "172.0,217.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "chela-1-canvas-1-location-annotation-3.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Title: School and Family Photographs, 1941-1956, 1997, undated | Location: Box: 146 | Folder: 12 | Extent: [See also: Oversized]",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://moniolivo.github.io/anzaldua-spirituality-recordings/chela-1/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://moniolivo.github.io/anzaldua-spirituality-recordings/chela-1/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "RangeSelector",
+          "t": "509.0,591.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "chela-1-canvas-1-location-annotation-4.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Title: \"El Amoramiento/Love-sickness\" | Box: 67",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://moniolivo.github.io/anzaldua-spirituality-recordings/chela-1/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://moniolivo.github.io/anzaldua-spirituality-recordings/chela-1/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "RangeSelector",
+          "t": "980.0,1123.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "chela-1-canvas-1-location-annotation-5.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Title: Psychology/Metaphysics/Health | Box: 166",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://moniolivo.github.io/anzaldua-spirituality-recordings/chela-1/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://moniolivo.github.io/anzaldua-spirituality-recordings/chela-1/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "RangeSelector",
+          "t": "1382.0,1547.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "chela-1-canvas-1-location-annotation-6.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Title: \"Creativity Is a Coping Strategy,\" A View From the Loft 13 (1), 1990 August | Location: Box: 59 | Folder: 22",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://moniolivo.github.io/anzaldua-spirituality-recordings/chela-1/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://moniolivo.github.io/anzaldua-spirituality-recordings/chela-1/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "RangeSelector",
+          "t": "1600.0,1661.0"
+        }
+      }
+    }
+  ]
+}

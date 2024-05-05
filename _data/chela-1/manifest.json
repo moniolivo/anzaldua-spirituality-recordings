@@ -23,6 +23,24 @@
         "id": "https://moniolivo.github.io/anzaldua-spirituality-recordings/chela-1/canvas-1/canvas",
         "type": "Canvas",
         "duration": 1848.0,
+        "annotations": [
+          
+          {
+            "type": "AnnotationPage",
+            "id": "https://moniolivo.github.io/anzaldua-spirituality-recordings/annotations/chela-1-canvas-1-transcript.json",
+            "label": {
+              "none": ["Transcript"]
+            }
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://moniolivo.github.io/anzaldua-spirituality-recordings/annotations/chela-1-canvas-1-location.json",
+            "label": {
+              "none": ["Location"]
+            }
+          }
+        ],
         "items": [
           {
             "id": "https://moniolivo.github.io/anzaldua-spirituality-recordings/chela-1/canvas-1/paintings",
