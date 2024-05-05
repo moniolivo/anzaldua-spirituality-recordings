@@ -1,0 +1,1124 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://moniolivo.github.io/anzaldua-spirituality-recordings/annotations/box-158-1-mp3-176-astrology-reading-undated-canvas-1-transcript.json",
+  "type": "AnnotationPage",
+  "label": "Transcript",
+  "items": [
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "box-158-1-mp3-176-astrology-reading-undated-canvas-1-transcript-annotation-0.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Amy: As soon as the warranty ends.",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://moniolivo.github.io/anzaldua-spirituality-recordings/box-158-1-mp3-176-astrology-reading-undated/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://moniolivo.github.io/anzaldua-spirituality-recordings/box-158-1-mp3-176-astrology-reading-undated/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "RangeSelector",
+          "t": "0.0,30.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "box-158-1-mp3-176-astrology-reading-undated-canvas-1-transcript-annotation-1.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<html><b>Cherrie:</b> Oh great.</html>",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://moniolivo.github.io/anzaldua-spirituality-recordings/box-158-1-mp3-176-astrology-reading-undated/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://moniolivo.github.io/anzaldua-spirituality-recordings/box-158-1-mp3-176-astrology-reading-undated/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "RangeSelector",
+          "t": "30.0,60.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "box-158-1-mp3-176-astrology-reading-undated-canvas-1-transcript-annotation-2.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<html>Amy: It's really good. Yes, yes, and I got it fixed once and the guy said oh well if it ever breaks again that's it, so of course it broke again. Okay, Cherrie, first I have to I guess warn you just because I'm on a super tight schedule today and I only have until 11:30 because I usually plan on a couple of hours. I like to leave a little leeway but there are all these emergencies that came up in my life today and I'm like-- and it's weird because the weirdness about not being able to <b>[unintelligible] </b>everything. I feel really badly but there's nothing I can do about it.\n\nI'm just going to go and do as much as I can possibly do. I don't know if I'm going to be able to finish the chart though because there's just so much in here that I want to tell you about, so I'll do my best. That's what I wanted to tell you because I didn't want to just leave you in mid-word and say, \"Oh, I got to go now.\"</html>",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://moniolivo.github.io/anzaldua-spirituality-recordings/box-158-1-mp3-176-astrology-reading-undated/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://moniolivo.github.io/anzaldua-spirituality-recordings/box-158-1-mp3-176-astrology-reading-undated/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "RangeSelector",
+          "t": "60.0,90.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "box-158-1-mp3-176-astrology-reading-undated-canvas-1-transcript-annotation-3.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Cherrie: Okay.",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://moniolivo.github.io/anzaldua-spirituality-recordings/box-158-1-mp3-176-astrology-reading-undated/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://moniolivo.github.io/anzaldua-spirituality-recordings/box-158-1-mp3-176-astrology-reading-undated/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "RangeSelector",
+          "t": "90.0,120.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "box-158-1-mp3-176-astrology-reading-undated-canvas-1-transcript-annotation-4.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Amy: What I do want to do-- You've had your charts done before haven't you?",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://moniolivo.github.io/anzaldua-spirituality-recordings/box-158-1-mp3-176-astrology-reading-undated/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://moniolivo.github.io/anzaldua-spirituality-recordings/box-158-1-mp3-176-astrology-reading-undated/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "RangeSelector",
+          "t": "120.0,150.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "box-158-1-mp3-176-astrology-reading-undated-canvas-1-transcript-annotation-5.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Cherrie: Yes, not very formally. I worked at a place where everybody--",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://moniolivo.github.io/anzaldua-spirituality-recordings/box-158-1-mp3-176-astrology-reading-undated/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://moniolivo.github.io/anzaldua-spirituality-recordings/box-158-1-mp3-176-astrology-reading-undated/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "RangeSelector",
+          "t": "150.0,180.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "box-158-1-mp3-176-astrology-reading-undated-canvas-1-transcript-annotation-6.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Amy: Had their chart done.",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://moniolivo.github.io/anzaldua-spirituality-recordings/box-158-1-mp3-176-astrology-reading-undated/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://moniolivo.github.io/anzaldua-spirituality-recordings/box-158-1-mp3-176-astrology-reading-undated/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "RangeSelector",
+          "t": "180.0,210.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "box-158-1-mp3-176-astrology-reading-undated-canvas-1-transcript-annotation-7.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Cherrie: Yes. Where a person who was-- I worked in this house food place and then a woman who did a lot of astrology had done my chart but between breaks she would show me it.",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://moniolivo.github.io/anzaldua-spirituality-recordings/box-158-1-mp3-176-astrology-reading-undated/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://moniolivo.github.io/anzaldua-spirituality-recordings/box-158-1-mp3-176-astrology-reading-undated/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "RangeSelector",
+          "t": "210.0,240.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "box-158-1-mp3-176-astrology-reading-undated-canvas-1-transcript-annotation-8.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Amy: Oh, I see.",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://moniolivo.github.io/anzaldua-spirituality-recordings/box-158-1-mp3-176-astrology-reading-undated/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://moniolivo.github.io/anzaldua-spirituality-recordings/box-158-1-mp3-176-astrology-reading-undated/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "RangeSelector",
+          "t": "240.0,270.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "box-158-1-mp3-176-astrology-reading-undated-canvas-1-transcript-annotation-9.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Cherrie: It wasn't like we had a real formal thing.",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://moniolivo.github.io/anzaldua-spirituality-recordings/box-158-1-mp3-176-astrology-reading-undated/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://moniolivo.github.io/anzaldua-spirituality-recordings/box-158-1-mp3-176-astrology-reading-undated/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "RangeSelector",
+          "t": "270.0,300.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "box-158-1-mp3-176-astrology-reading-undated-canvas-1-transcript-annotation-10.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Amy: I get you. All right, well, but you're familiar with how a chart is set up, aren't you?",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://moniolivo.github.io/anzaldua-spirituality-recordings/box-158-1-mp3-176-astrology-reading-undated/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://moniolivo.github.io/anzaldua-spirituality-recordings/box-158-1-mp3-176-astrology-reading-undated/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "RangeSelector",
+          "t": "300.0,330.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "box-158-1-mp3-176-astrology-reading-undated-canvas-1-transcript-annotation-11.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Cherrie: Yes.",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://moniolivo.github.io/anzaldua-spirituality-recordings/box-158-1-mp3-176-astrology-reading-undated/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://moniolivo.github.io/anzaldua-spirituality-recordings/box-158-1-mp3-176-astrology-reading-undated/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "RangeSelector",
+          "t": "330.0,360.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "box-158-1-mp3-176-astrology-reading-undated-canvas-1-transcript-annotation-12.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Amy: The fact that there are planets, and signs, and houses and that kind of stuff.",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://moniolivo.github.io/anzaldua-spirituality-recordings/box-158-1-mp3-176-astrology-reading-undated/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://moniolivo.github.io/anzaldua-spirituality-recordings/box-158-1-mp3-176-astrology-reading-undated/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "RangeSelector",
+          "t": "360.0,389.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "box-158-1-mp3-176-astrology-reading-undated-canvas-1-transcript-annotation-13.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Cherrie: Yes.",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://moniolivo.github.io/anzaldua-spirituality-recordings/box-158-1-mp3-176-astrology-reading-undated/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://moniolivo.github.io/anzaldua-spirituality-recordings/box-158-1-mp3-176-astrology-reading-undated/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "RangeSelector",
+          "t": "389.0,420.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "box-158-1-mp3-176-astrology-reading-undated-canvas-1-transcript-annotation-14.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Amy: Well, what I'll do then is first of all I'm just going to talk about your chart as a whole and give you an overview. The second thing I'll do is talk about your sun sign, your rising sign, and your moon sign, and how they fit together, and how they work. The third thing I'll do if we have time is to go through each house individually and talk about what's in each house until I get around to the whole again. Okay?",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://moniolivo.github.io/anzaldua-spirituality-recordings/box-158-1-mp3-176-astrology-reading-undated/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://moniolivo.github.io/anzaldua-spirituality-recordings/box-158-1-mp3-176-astrology-reading-undated/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "RangeSelector",
+          "t": "420.0,450.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "box-158-1-mp3-176-astrology-reading-undated-canvas-1-transcript-annotation-15.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Cherrie: Okay.",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://moniolivo.github.io/anzaldua-spirituality-recordings/box-158-1-mp3-176-astrology-reading-undated/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://moniolivo.github.io/anzaldua-spirituality-recordings/box-158-1-mp3-176-astrology-reading-undated/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "RangeSelector",
+          "t": "450.0,480.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "box-158-1-mp3-176-astrology-reading-undated-canvas-1-transcript-annotation-16.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Amy: For sure if you have any questions or comments or anything to just go right ahead.",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://moniolivo.github.io/anzaldua-spirituality-recordings/box-158-1-mp3-176-astrology-reading-undated/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://moniolivo.github.io/anzaldua-spirituality-recordings/box-158-1-mp3-176-astrology-reading-undated/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "RangeSelector",
+          "t": "480.0,510.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "box-158-1-mp3-176-astrology-reading-undated-canvas-1-transcript-annotation-17.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Cherrie: Okay.",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://moniolivo.github.io/anzaldua-spirituality-recordings/box-158-1-mp3-176-astrology-reading-undated/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://moniolivo.github.io/anzaldua-spirituality-recordings/box-158-1-mp3-176-astrology-reading-undated/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "RangeSelector",
+          "t": "510.0,540.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "box-158-1-mp3-176-astrology-reading-undated-canvas-1-transcript-annotation-18.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Amy: Well, the first thing I want to talk about as far as your chart goes is the fact that you do have two major aspects in your chart. What that means is that when you were born Cherrie, at the moment of your birth there happened to have been the planet situated themselves in such a way that they actually formed these big shapes in the middle of the sky. To have one is not super unusual but it's not that common either, but to have two is considered highly unusual, and they're very important because they tend to color everything else in the chart.\n\nYou have both a T-square and a Yod, and the T-square is caused because you have two planets that were 180 degrees away from each other, so they formed this straight line, the red line. Then you had another planet that was 90 degrees from the other two, so it forms two right angles or a T shape in the middle of the sky. The T-square gives you the feeling that if you just had X, everything in your life would fit together. However, X can be anything, Cherrie. That X could be a relationship, it could be money, it could be material object, it could be work, it could be the perfect body.\n\nIt could be the perfect mind, it could be anything and X can change. You can decide oh, oh, this is really X on Tuesday and then maybe by Thursday, you can say well I thought about it again and I realized that's not really X, this is X instead. If you do decide that a particular issue is X and you go off and you get it you really work at it, for a while it really does make you feel complete. After a while it really gives you the feeling of just like gee, this isn't quite right, it isn't quite working. You really feel oh I have to go off and I have to find something else to fulfill me.",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://moniolivo.github.io/anzaldua-spirituality-recordings/box-158-1-mp3-176-astrology-reading-undated/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://moniolivo.github.io/anzaldua-spirituality-recordings/box-158-1-mp3-176-astrology-reading-undated/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "RangeSelector",
+          "t": "540.0,570.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "box-158-1-mp3-176-astrology-reading-undated-canvas-1-transcript-annotation-19.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Amy: It's really analogous to going around and looking for wall outlets. You find an outlet, and you plug your plug into it and the energy starts flowing through and you feel really great and then all of a sudden you short out. Of course, the most normal thing to do in that point is to pull your plug out of the outlet and to say, \"Oh what a stupid outlet, it isn't working, I got to go find another outlet.\" What the T-square is saying is that you do have the short circuit inside of you. Now the short circuit is caused because you have an imbalance of energy.\n\nNow you're not doomed to the short circuit. It's not saying to you, \"Oh, well, tough luck, Cherrie, for the rest of your life you're going to be like this.\" It's saying no, okay there is an imbalance and you can write the imbalance. Now what the imbalance is depends upon the particular planets in the T-square. Now in your case, you have a special kind of T-square, because it doesn't just involve planets. It also involves these two points which are called the nodes. Now the nodes, are not really planets at all.\n\nIf you take the orbit of the earth around the sun, and then you take the orbit of the earth's moon around the earth, those orbits cross in two places. The intersection that faces north is the north node, and it points up, and it represents breaking away from past life karma. The intersection that faces down is the self node, and it represents getting sucked into past life karma.",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://moniolivo.github.io/anzaldua-spirituality-recordings/box-158-1-mp3-176-astrology-reading-undated/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://moniolivo.github.io/anzaldua-spirituality-recordings/box-158-1-mp3-176-astrology-reading-undated/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "RangeSelector",
+          "t": "570.0,600.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "box-158-1-mp3-176-astrology-reading-undated-canvas-1-transcript-annotation-20.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Cherrie: Great.",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://moniolivo.github.io/anzaldua-spirituality-recordings/box-158-1-mp3-176-astrology-reading-undated/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://moniolivo.github.io/anzaldua-spirituality-recordings/box-158-1-mp3-176-astrology-reading-undated/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "RangeSelector",
+          "t": "600.0,630.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "box-158-1-mp3-176-astrology-reading-undated-canvas-1-transcript-annotation-21.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Amy: To have a T-square with the nodes first of all Cherrie it's telling you that this is an old energy. That this is something that you have been dealing with for lifetimes and lifetimes and lifetimes, and you finally get to it and say, \"Okay this is it. I really have to deal with this energy.\" What the imbalance is about, is connected to these planets because your Pluto-- now Pluto rules transformation and power. It is conjunct, which means it's just totally together with right on top of your self node which is past life karma.\n\nWhat this says is that in a past life, you were extremely powerful and you felt that your power was your work. It wasn't just powerful personally maybe you were in a situation where you had a lot of personal power, but outwardly nobody saw it. It's saying that you were outwardly known for your power and that you got very connected up to it because of the Leo in a very egoistic way. Instead of seeing yourself as a channel for the power, you really totally identified with this power and said, \"Yes, this is who I am. I'm the power and what I want is right for everybody.\"\n\nNow where's Leo? Because the south node and the Pluto are in the sign Leo, and the Leo indicates that it was a real ego attachment to that power. Now, you also have this energy square to 90 degrees away from the planet Jupiter. Now, Jupiter Cherrie is always a blessing except when it's in a square position, because in that case because Jupiter is expansion it represents over expansion. It represents something that once was good but has turned into too much.\n\nHaving Jupiter there square to the Pluto in the south node, that's the fact that you took on the power because you felt it was the right thing to do. You didn't start off saying, \"Hey, wow, I want to have a lot of power. I'm just going to get in there and be incredible and have all this power and do whatever the hell I want.\" It's saying that you started off with very noble aspirations, but what happened is that the more power you got the more you liked it and the more it felt like hey this is pretty good.\n\nAll right, I must be pretty far out to have this power, and then the more you got in touch with it the more you wanted it, and the more you got blinded to what was the right balance the more you felt that you had to be the certain energy. Your north node is in Aquarius, and the north node is the breaking away from past life energy. In Aquarius, it says that you're breaking away is by seeing the truth that you're breaking through illusions. Now, the key here is that it's all illusions.",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://moniolivo.github.io/anzaldua-spirituality-recordings/box-158-1-mp3-176-astrology-reading-undated/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://moniolivo.github.io/anzaldua-spirituality-recordings/box-158-1-mp3-176-astrology-reading-undated/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "RangeSelector",
+          "t": "630.0,660.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "box-158-1-mp3-176-astrology-reading-undated-canvas-1-transcript-annotation-22.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Amy: It's not just the illusion of power because you have really learned your lesson having a really packed 12-house. It's telling you that you've been dealing with this power issue for a lifetime. It's not like oh in your last life you blew it and now you have to be real careful about power. You've already seen the negative side of the misuse of power and been the victim now of a misuse of power. This has already happened to you. You don't have to see, \"Oh gee, what is power? I can't use it blah blah blah.\"\n\nIn fact, in this lifetime you have to reconnect to the use of power. You have to really see that it is important for you to use this power, and yet what it's saying is you have to use the power with the light in the truth, and that this is a very intense energy for you. Quite naturally a part of you is scared shitless because you look at that power and it's like, \"Oh, yes, I remember you. I remember what you were like, forget it I'm not here.\" Naturally with the T, you feel this incredible duality, because some of the time you feel like, \"Who me, Cherrie? Oh no, not me. I don't know what you're talking about. What power? I got no power.\"\n\nYet at the same time, the people are there saying, \"Oh, Cherrie she doesn't have any power.?\" It's like, \"What do you mean I don't any? Hey, listen, I have all this power and I got to use this power. Here I am.\" Then it's like, \"Oh my God, what did I do?\" \"Oh, no. No, I was just kidding. Just kidding, folks. No, I don't have any power. No, no, no, no. Of course, I have power.\" It goes back and forth. There are some days in which you're right up there, you're right there looking straight into your destiny and saying, \"Yes, this is who I am, and this is who I have to be.\" Other days you're just looking at that and saying, \"Oh my God, I can't possibly accept this power. This is just much too scary. It's much too much. No, I can't deal with it.\"\n\nIt is this duality of saying, \"Yes, I want it. No, I don't. Yes, I've got to have it. No, I can't.\" What you're trying to do is to find the perfect balance, is to be able to be a channel of that power, accept your power, but not feel that you have to take on too much of the power and not feel that you can't accept yourself as you truly are. It's a real connection to the truth inside of yourself. Yet at the same time, it's saying that you cannot possibly ignore this power. You must deal with it. That's a really important energy with the T.",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://moniolivo.github.io/anzaldua-spirituality-recordings/box-158-1-mp3-176-astrology-reading-undated/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://moniolivo.github.io/anzaldua-spirituality-recordings/box-158-1-mp3-176-astrology-reading-undated/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "RangeSelector",
+          "t": "660.0,690.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "box-158-1-mp3-176-astrology-reading-undated-canvas-1-transcript-annotation-23.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Cherrie: What were you saying about the illusion thing?",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://moniolivo.github.io/anzaldua-spirituality-recordings/box-158-1-mp3-176-astrology-reading-undated/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://moniolivo.github.io/anzaldua-spirituality-recordings/box-158-1-mp3-176-astrology-reading-undated/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "RangeSelector",
+          "t": "690.0,720.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "box-158-1-mp3-176-astrology-reading-undated-canvas-1-transcript-annotation-24.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Amy: Now, the illusion works in two different ways. First of all, it's the illusion that you can use power any old way you want. Every time you get a little bit too egoistic or too cocky with that power, you do get smashed. Every time you say, \"Oh, right. Hey, I want this.\" You talk yourself into thinking, \"Oh, this is for everyone else, and it's really for Cherrie and it's long, and it's like the neon signs go off and the sirens, and it's like, \"Don, don, don, wonk.\"\n\nIt's like, \"Whoops, okay, I'm not going to do it this time.\" The second side though, is the more insidious side, because that part of the illusion is the illusion that your negativity does to say to you, \"Oh, well, you can't have power. You're just too messed up. You'll really misuse it. You can't touch it.\" The reason why it does that is from your dark side's point of view, you're in this really terrible position because first of all, it had power.\n\nIt really had it, and you used it, and your dark side loved it because it had all this incredible energy. It was like, \"Hey, I get to do whatever I want.\" Then you got smashed. You really did get smashed. You went through a number of very painful lifetimes, and your dark side lost its power. Now, here you are in this situation where there's this power hanging right in front of you, and it's saying to you, \"Cherrie, use it.\" You're there going, \"All right. I have to use it.\"",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://moniolivo.github.io/anzaldua-spirituality-recordings/box-158-1-mp3-176-astrology-reading-undated/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://moniolivo.github.io/anzaldua-spirituality-recordings/box-158-1-mp3-176-astrology-reading-undated/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "RangeSelector",
+          "t": "720.0,750.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "box-158-1-mp3-176-astrology-reading-undated-canvas-1-transcript-annotation-25.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Amy: Now, your dark side is fit to be tied because it looks at this and it says, \"What do you mean she can use it? This is mine.\" It's being taught, \"Uh-uh. You don't touch it. You don't get near it. You can't even breathe on it.\" Your dark side's freaking out saying, \"Well, if I can't have it, she can't either.\" It's energy, instead of trying to co-opt the power, it knows enough now that it can't possibly co-opt the power.\n\nYou are in no way an evil person, and you're not going to be an evil person. It knows it can't do that. What it figures it can do is to just keep you away from it. Because it says, \"Hey, I don't want to get burnt. I don't want to get transformed. If I keep her from being transformed, I'm going to not be transformed either.\" It's always in there creating all these illusions about the power, saying to you, \"Don't touch it. Don't touch it. It'll hurt you. It's bad. You can't handle it. You're not ready.\"\n\nAll these things so that you'll step back and say, \"Oh, Gee, oh, I'm not ready. Someday when I'm ready, I'll touch it,\" or, \"Oh Gee, oh God, this is so much and I can't handle this.\" Or, \"Oh wow, what if I blow it? Everybody looks at me and says, gee, Cherrie, we were really depending on you, and you really blew it. Oh God, you really let us down.\" It's got all these really insidious ways to get to you that are so subtle that they're not out front. You can say, \"Well, gee, I must be doing this from the right thing. I just want to be ready. I'm doing this with a really good conscience. It's not like I'm trying to mess things up.\"\n\nIt also can get you through other people. It can say, \"Oh, Cherrie, you can't think about yourself right now. You have to think about this other person or these other people.\" Because then you can say, \"Oh, yes. Right. Well, see, I'm not being selfish. I'm not being messed up. I have to go deal with this person, or this situation, or this community, or whatever it is.\" It's telling you that you have to be really careful about the illusions that your negative energy creates under the guise of positive energy. The way you can tell is how it feels, because no matter what it sounds intellectually, no matter how much you say to yourself, \"Oh Gee, really, it's got to be like this. It's really got to be this way. It sounds really good in my mind. It's really creating it.\" If it in your heart, you just don't feel good about it, you're just saying, \"I've got do this. I've got to.\" Then you know, you've got to go with what your heart says.\n\nWhat your negative energy does is it creates all this mental veneer, it keeps pulling things up in your mind and saying, \"Cherrie, what about this? Oh, and how can you think you're ready? Isn't that ego?\" Then you think, \"Oh, [unintelligible 00:15:44], it must be ego. I can't think I'm ready, so I'm not ready.\" Whereas it's all that energy saying, pull her back. Pull her back. Don't let her go. Don't let her go.\" That's why really accepting your destiny is really confronting that intellectualization of that power as well.",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://moniolivo.github.io/anzaldua-spirituality-recordings/box-158-1-mp3-176-astrology-reading-undated/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://moniolivo.github.io/anzaldua-spirituality-recordings/box-158-1-mp3-176-astrology-reading-undated/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "RangeSelector",
+          "t": "750.0,779.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "box-158-1-mp3-176-astrology-reading-undated-canvas-1-transcript-annotation-26.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Amy: Now every T-square has a point where it needs to balance because it is a T. There is no planet on the chart because if there was a planet, then you wouldn't have a T at all, you'd have a cross, which is a completely different energy. That missing planet is called the void. It is directly opposite the stem. Your stem is in Taurus. Your void then would be in Scorpio in the first house.\n\nNow, the first house is the house of self-identity, and Scorpio is power. What this says is that the thing that you really need to do is to identify with the truth of your power. The truth that you are a divine warrior in this lifetime. I mean, you really have to be. There's lots of things that you have to get out there and confront that Cherrie and her Libra essence would rather not deal with it all.\n\nYour Libras, there're going, \"What? Me? Oh no, not me. I'm just sitting here spacing out.\" Whereas that Scorpio energy is right in there. It's going, \"You are a divine warrior. You got to get out there. You have to clothe yourself in the truth. You have to hold the sword of truth and you have to communicate it. You have to be it.\" There's a lot of parts of you that are in there saying, \"No, I don't want to look at this destiny because it hurts. Besides it's scary. Can't I just stay here and live in a little house on the ocean and not look at anything.\"\n\nYou're being told, \"Uh-uh, Uh-uh, you got to get out there and confront.\" That's the thing that's really scary, is that sense of, \"Oh, I've really got to get out there and confront. I've really got to get out there and deal with the energy.\" The other side of it is it says that you've got to really use that power that for many lifetimes you've been sitting on it and really saying, \"I'm not ready, I'm not ready. I can't use it. I'll just blow it again. I'll blow it again.\" This lifetime, you're right there. It's like your divine energy has come right down to you and it's saying to you, \"Okay, Cherrie, this is the time. This is it. You really have to use the energy. You cannot possibly ignore this.\"\n\nYou're finding yourself having to really deal with that energy, having to accept it in spite of yourself. Now, the fact that the Scorpio is in the void does not mean that you don't connect to Scorpios. As a matter of fact, what it says is that at times Scorpios can be incredible catalysts to your life. Because it's almost like their energy, especially if their sun or any planet that they have fits into the void. It's saying that then that energy really helps you to realize the T-square energy. Of course, Barbara is a Scorpio. I don't know if her son, I can't remember what the degree of her son is, so I don't know if it fits into this or not. Do you know what day she was born on-- November?",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://moniolivo.github.io/anzaldua-spirituality-recordings/box-158-1-mp3-176-astrology-reading-undated/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://moniolivo.github.io/anzaldua-spirituality-recordings/box-158-1-mp3-176-astrology-reading-undated/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "RangeSelector",
+          "t": "779.0,810.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "box-158-1-mp3-176-astrology-reading-undated-canvas-1-transcript-annotation-27.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Cherrie: I'm just forgetting. Oh, no. 17th.",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://moniolivo.github.io/anzaldua-spirituality-recordings/box-158-1-mp3-176-astrology-reading-undated/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://moniolivo.github.io/anzaldua-spirituality-recordings/box-158-1-mp3-176-astrology-reading-undated/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "RangeSelector",
+          "t": "810.0,840.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "box-158-1-mp3-176-astrology-reading-undated-canvas-1-transcript-annotation-28.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Amy: 17th. There is a real good chance that her son would fit into this void. That would just be an interesting thing because it would say that in her very essence would help you to work out this T-square energy. That's just an interesting [crosstalk]",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://moniolivo.github.io/anzaldua-spirituality-recordings/box-158-1-mp3-176-astrology-reading-undated/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://moniolivo.github.io/anzaldua-spirituality-recordings/box-158-1-mp3-176-astrology-reading-undated/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "RangeSelector",
+          "t": "840.0,870.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "box-158-1-mp3-176-astrology-reading-undated-canvas-1-transcript-annotation-29.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Cherrie: Yes, makes sense.",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://moniolivo.github.io/anzaldua-spirituality-recordings/box-158-1-mp3-176-astrology-reading-undated/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://moniolivo.github.io/anzaldua-spirituality-recordings/box-158-1-mp3-176-astrology-reading-undated/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "RangeSelector",
+          "t": "870.0,900.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "box-158-1-mp3-176-astrology-reading-undated-canvas-1-transcript-annotation-30.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Amy: That's the T-square. Now you also have a Yod. Now a Yod is a partially resolved T-Square. It's as if you've gotten a T-square and almost worked it out to completion, but just didn't quite manage to get it totally synthesized, like in another life. A Yod is called a Yod because actually Yod is the Hebrew letter for Y, and it is a Y shape. You've got two sets of planets that are 60 degrees away from each other. They form a 60-degree angle, then both of them are 150 degrees away from the stem point.\n\nIt's interesting that the stem point here is also Jupiter. Jupiter is the stem for both the T Square and the Yod. What this says is that you have to be really careful at pushing yourself too hard. It's like you've wanted to get through this karma so badly that you've almost decided in past lives that you were just going to burn straight through it. You had at least in one lifetime, I know of at least one in which you were just, ugh.\n\nYou just decided, lay it on me Lord. It was just like, \"Okay, I am just going to totally burn through this. I am not going to get stuck in this again.\" You did have, I don't know if it was your last lifetime or the lifetime for it but it was incredibly painful. It was very much involved in this intense victimization experience. Your death was a particularly incredibly horrible death where you died. You were raped and murdered in your death and it was just this incredible thing [crosstalk] to sustain. Pardon?",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://moniolivo.github.io/anzaldua-spirituality-recordings/box-158-1-mp3-176-astrology-reading-undated/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://moniolivo.github.io/anzaldua-spirituality-recordings/box-158-1-mp3-176-astrology-reading-undated/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "RangeSelector",
+          "t": "900.0,930.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "box-158-1-mp3-176-astrology-reading-undated-canvas-1-transcript-annotation-31.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Cherrie: I was saying, why does it feel so recent?",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://moniolivo.github.io/anzaldua-spirituality-recordings/box-158-1-mp3-176-astrology-reading-undated/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://moniolivo.github.io/anzaldua-spirituality-recordings/box-158-1-mp3-176-astrology-reading-undated/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "RangeSelector",
+          "t": "930.0,960.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "box-158-1-mp3-176-astrology-reading-undated-canvas-1-transcript-annotation-32.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Amy: Recent? [inaudible 00:21:16] I'm with you.",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://moniolivo.github.io/anzaldua-spirituality-recordings/box-158-1-mp3-176-astrology-reading-undated/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://moniolivo.github.io/anzaldua-spirituality-recordings/box-158-1-mp3-176-astrology-reading-undated/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "RangeSelector",
+          "t": "960.0,989.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "box-158-1-mp3-176-astrology-reading-undated-canvas-1-transcript-annotation-33.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Cherrie: When you said that, it felt so recent.",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://moniolivo.github.io/anzaldua-spirituality-recordings/box-158-1-mp3-176-astrology-reading-undated/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://moniolivo.github.io/anzaldua-spirituality-recordings/box-158-1-mp3-176-astrology-reading-undated/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "RangeSelector",
+          "t": "989.0,1020.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "box-158-1-mp3-176-astrology-reading-undated-canvas-1-transcript-annotation-34.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Amy: Oh, yes. It was so traumatic for your soul. Yet, see, the thing that was so intense about it is that in this really weird way, you engineered it because it was almost like you said, \"Okay, that's it. Okay, maybe I victimized some people. Well, I'm just going to burn right through it. I'm just going to rip it off my soul because I'm not going to deal with this anymore.\" See, I feel like your misuse of power was probably a number of lifetimes ago and you started off dealing with it more intellectually, and you got very frustrated where you felt like, I have to get back to using this power. I can't stand being impotent and not being able to use the power.",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://moniolivo.github.io/anzaldua-spirituality-recordings/box-158-1-mp3-176-astrology-reading-undated/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://moniolivo.github.io/anzaldua-spirituality-recordings/box-158-1-mp3-176-astrology-reading-undated/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "RangeSelector",
+          "t": "1020.0,1050.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "box-158-1-mp3-176-astrology-reading-undated-canvas-1-transcript-annotation-35.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "[End of Recording]",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://moniolivo.github.io/anzaldua-spirituality-recordings/box-158-1-mp3-176-astrology-reading-undated/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://moniolivo.github.io/anzaldua-spirituality-recordings/box-158-1-mp3-176-astrology-reading-undated/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "1050.0"
+        }
+      }
+    }
+  ]
+}
