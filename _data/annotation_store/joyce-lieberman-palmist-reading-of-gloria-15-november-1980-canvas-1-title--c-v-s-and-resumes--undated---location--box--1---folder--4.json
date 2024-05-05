@@ -1,0 +1,39 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://moniolivo.github.io/anzaldua-spirituality-recordings/annotations/joyce-lieberman-palmist-reading-of-gloria-15-november-1980-canvas-1-title--c-v-s-and-resumes--undated---location--box--1---folder--4.json",
+  "type": "AnnotationPage",
+  "label": "Title: C.V.s and Resumes, undated | Location: Box: 1 | Folder: 4",
+  "items": [
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "joyce-lieberman-palmist-reading-of-gloria-15-november-1980-canvas-1-title--c-v-s-and-resumes--undated---location--box--1---folder--4-annotation-0.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "GA: I started leaving home.\n\nJL: At what time?\n\nGA: About 19. I left for a year.\n\nJL: But your plan, you were thinking of it before, weren’t you?\n\nGA: Yes, I’d been planning\n\nJL: And at 19 you left?\n\nGA: I came back a year later but it was like a different world.\n\nJL: Where’d you go to?\n\nGA: I went about 800 miles away. Clear across the state of Texas.\n\nJL: To where?\n\nGA: To a little town named Denton, north of Dallas.\n\nJL: But at least you were near a good place.\n\nGA: Yes, I started going to a university there.",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://moniolivo.github.io/anzaldua-spirituality-recordings/joyce-lieberman-palmist-reading-of-gloria-15-november-1980/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://moniolivo.github.io/anzaldua-spirituality-recordings/joyce-lieberman-palmist-reading-of-gloria-15-november-1980/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "RangeSelector",
+          "t": "637.0,676.0"
+        }
+      }
+    }
+  ]
+}
