@@ -1,0 +1,39 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://moniolivo.github.io/anzaldua-spirituality-recordings/annotations/lieberman-3-canvas-1-title--health-and-diet-information-box--3.json",
+  "type": "AnnotationPage",
+  "label": "Title: Health and Diet Information\nBox: 3",
+  "items": [
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "lieberman-3-canvas-1-title--health-and-diet-information-box--3-annotation-0.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "JL: Before your hysterectomy, had you had any other hormonal difficulties whatsoever like thyroid deficiency or because I’m picking that up.\n\nGA: From the time I was 3 months old I was [bleeding?] on my diaper.\n\nJL: Yeah, so there’s always been a hormonal imbalance of some kind.\n\nGA: It’s only now that I’m getting it balanced out.",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://moniolivo.github.io/anzaldua-spirituality-recordings/lieberman-3/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://moniolivo.github.io/anzaldua-spirituality-recordings/lieberman-3/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "RangeSelector",
+          "t": "167.0,194.0"
+        }
+      }
+    }
+  ]
+}
