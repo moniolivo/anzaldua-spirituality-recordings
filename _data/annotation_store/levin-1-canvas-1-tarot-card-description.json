@@ -1,0 +1,225 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://moniolivo.github.io/anzaldua-spirituality-recordings/annotations/levin-1-canvas-1-tarot-card-description.json",
+  "type": "AnnotationPage",
+  "label": "Tarot Card Description",
+  "items": [
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "levin-1-canvas-1-tarot-card-description-annotation-0.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<html>Queen of Swords\n\n\"Honest, astute, forthright, witty, experienced\"\n\nBunning, Joan. <i>The Big Book of Tarot : How to Interpret the Cards and Work with Tarot Spreads for Personal Growth</i>, Red Wheel/Weiser, 2019.</html>",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://moniolivo.github.io/anzaldua-spirituality-recordings/levin-1/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://moniolivo.github.io/anzaldua-spirituality-recordings/levin-1/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "RangeSelector",
+          "t": "210.0,240.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "levin-1-canvas-1-tarot-card-description-annotation-1.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<html>The Chariot\n\n\"Victory, will, self-assertion, hard control\"\n\nBunning, Joan. <i>The Big Book of Tarot : How to Interpret the Cards and Work with Tarot Spreads for Personal Growth</i>, Red Wheel/Weiser, 2019.</html>",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://moniolivo.github.io/anzaldua-spirituality-recordings/levin-1/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://moniolivo.github.io/anzaldua-spirituality-recordings/levin-1/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "RangeSelector",
+          "t": "1170.0,1200.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "levin-1-canvas-1-tarot-card-description-annotation-2.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<html>The Emperor\n\n\"Fathering, structure, authority, regulation\"\n\nBunning, Joan. <i>The Big Book of Tarot : How to Interpret the Cards and Work with Tarot Spreads for Personal Growth</i>, Red Wheel/Weiser, 2019.</html>",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://moniolivo.github.io/anzaldua-spirituality-recordings/levin-1/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://moniolivo.github.io/anzaldua-spirituality-recordings/levin-1/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "RangeSelector",
+          "t": "4410.0,4440.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "levin-1-canvas-1-tarot-card-description-annotation-3.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<html>The Hierophant\n\n\"Education, belief systems, comformity, group identification\"\n\nBunning, Joan. <i>The Big Book of Tarot : How to Interpret the Cards and Work with Tarot Spreads for Personal Growth</i>, Red Wheel/Weiser, 2019.</html>",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://moniolivo.github.io/anzaldua-spirituality-recordings/levin-1/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://moniolivo.github.io/anzaldua-spirituality-recordings/levin-1/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "RangeSelector",
+          "t": "4890.0,4920.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "levin-1-canvas-1-tarot-card-description-annotation-4.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<html>Prince of Swords/Knight of Swords\n\n\"Direct/blunt, authoritative/overbearing, incisive/cutting, knowledgeable/opinionated, logical/unfeeling\"\n\nBunning, Joan. <i>The Big Book of Tarot : How to Interpret the Cards and Work with Tarot Spreads for Personal Growth</i>, Red Wheel/Weiser, 2019.</html>",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://moniolivo.github.io/anzaldua-spirituality-recordings/levin-1/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://moniolivo.github.io/anzaldua-spirituality-recordings/levin-1/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "RangeSelector",
+          "t": "7290.0,7320.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "levin-1-canvas-1-tarot-card-description-annotation-5.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<html>Ace of Disks/Ace of Pentacles\n\n\"Material, force, prosperity, practicality, trust\"\n\nBunning, Joan. <i>The Big Book of Tarot : How to Interpret the Cards and Work with Tarot Spreads for Personal Growth</i>, Red Wheel/Weiser, 2019.</html>",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://moniolivo.github.io/anzaldua-spirituality-recordings/levin-1/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://moniolivo.github.io/anzaldua-spirituality-recordings/levin-1/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "RangeSelector",
+          "t": "7410.0,7440.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "levin-1-canvas-1-tarot-card-description-annotation-6.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<html>Queen of Disks/Queen of Pentacles\n\n\"Nurturing, bighearted, down-to-earth, resourceful, trustworthy\"\n\nBunning, Joan. <i>The Big Book of Tarot : How to Interpret the Cards and Work with Tarot Spreads for Personal Growth</i>, Red Wheel/Weiser, 2019</html>",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://moniolivo.github.io/anzaldua-spirituality-recordings/levin-1/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://moniolivo.github.io/anzaldua-spirituality-recordings/levin-1/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "RangeSelector",
+          "t": "8760.0,8790.0"
+        }
+      }
+    }
+  ]
+}
