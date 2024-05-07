@@ -23,6 +23,24 @@
         "id": "https://moniolivo.github.io/anzaldua-spirituality-recordings/lisa-biow/canvas-1/canvas",
         "type": "Canvas",
         "duration": 1482.0,
+        "annotations": [
+          
+          {
+            "type": "AnnotationPage",
+            "id": "https://moniolivo.github.io/anzaldua-spirituality-recordings/annotations/lisa-biow-canvas-1-transcript.json",
+            "label": {
+              "none": ["Transcript"]
+            }
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://moniolivo.github.io/anzaldua-spirituality-recordings/annotations/lisa-biow-canvas-1-astrological-significance.json",
+            "label": {
+              "none": ["Astrological Significance"]
+            }
+          }
+        ],
         "items": [
           {
             "id": "https://moniolivo.github.io/anzaldua-spirituality-recordings/lisa-biow/canvas-1/paintings",
